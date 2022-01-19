@@ -26,8 +26,8 @@
     "tailwindcss-cli": "^0.1.2"
   },
   "scripts": {
-    "start": "craco --max_old_space_size=2560 node_modules/.bin/react-scripts start",
-    "build": "craco --max_old_space_size=2560 node_modules/.bin/react-scripts build",
+    "start": "npm start",
+    "build": "npm build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
