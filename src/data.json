@@ -1,0 +1,7331 @@
+[
+  {
+    "city": "Madrid"
+  },
+  {
+    "city": "Barcelona"
+  },
+  {
+    "city": "Sevilla"
+  },
+  {
+    "city": "Málaga"
+  },
+  {
+    "city": "Valencia"
+  },
+  {
+    "city": "Zaragoza"
+  },
+  {
+    "city": "Palma"
+  },
+  {
+    "city": "Murcia"
+  },
+  {
+    "city": "Las Palmas"
+  },
+  {
+    "city": "A Coruña"
+  },
+  {
+    "city": "Bilbao"
+  },
+  {
+    "city": "Alicante"
+  },
+  {
+    "city": "Córdoba"
+  },
+  {
+    "city": "Valladolid"
+  },
+  {
+    "city": "Vigo"
+  },
+  {
+    "city": "Gijón"
+  },
+  {
+    "city": "Vitoria-Gasteiz"
+  },
+  {
+    "city": "Elche"
+  },
+  {
+    "city": "Granada"
+  },
+  {
+    "city": "Tarrasa"
+  },
+  {
+    "city": "Badalona"
+  },
+  {
+    "city": "Oviedo"
+  },
+  {
+    "city": "Petrel"
+  },
+  {
+    "city": "Sabadell"
+  },
+  {
+    "city": "Cartagena"
+  },
+  {
+    "city": "Jerez de la Frontera"
+  },
+  {
+    "city": "Santa Cruz"
+  },
+  {
+    "city": "Pamplona"
+  },
+  {
+    "city": "León"
+  },
+  {
+    "city": "Almería"
+  },
+  {
+    "city": "Logroño"
+  },
+  {
+    "city": "Fuenlabrada"
+  },
+  {
+    "city": "Leganés"
+  },
+  {
+    "city": "Donostia"
+  },
+  {
+    "city": "Mataró"
+  },
+  {
+    "city": "Albacete"
+  },
+  {
+    "city": "Castellón de la Plana"
+  },
+  {
+    "city": "Santander"
+  },
+  {
+    "city": "Getafe"
+  },
+  {
+    "city": "Alcorcón"
+  },
+  {
+    "city": "Burgos"
+  },
+  {
+    "city": "Guadalajara"
+  },
+  {
+    "city": "La Laguna"
+  },
+  {
+    "city": "Badajoz"
+  },
+  {
+    "city": "Marbella"
+  },
+  {
+    "city": "Salamanca"
+  },
+  {
+    "city": "Huelva"
+  },
+  {
+    "city": "Ciudad de Melilla"
+  },
+  {
+    "city": "Tarragona"
+  },
+  {
+    "city": "Dos Hermanas"
+  },
+  {
+    "city": "Torrejón de Ardoz"
+  },
+  {
+    "city": "Algeciras"
+  },
+  {
+    "city": "Cádiz"
+  },
+  {
+    "city": "Jaén"
+  },
+  {
+    "city": "Reus"
+  },
+  {
+    "city": "Girona"
+  },
+  {
+    "city": "San Vicente de Baracaldo"
+  },
+  {
+    "city": "Lugo"
+  },
+  {
+    "city": "Roquetas de Mar"
+  },
+  {
+    "city": "Cáceres"
+  },
+  {
+    "city": "Las Rozas de Madrid"
+  },
+  {
+    "city": "Lorca"
+  },
+  {
+    "city": "San Fernando"
+  },
+  {
+    "city": "San Cugat del Vallés"
+  },
+  {
+    "city": "Santiago de Compostela"
+  },
+  {
+    "city": "San Sebastián de los Reyes"
+  },
+  {
+    "city": "Vaciamadrid"
+  },
+  {
+    "city": "El Puerto de Santa María"
+  },
+  {
+    "city": "Toledo"
+  },
+  {
+    "city": "Mijas"
+  },
+  {
+    "city": "Chiclana de la Frontera"
+  },
+  {
+    "city": "Torrevieja"
+  },
+  {
+    "city": "San Baudilio de Llobregat"
+  },
+  {
+    "city": "Ciudad de Ceuta"
+  },
+  {
+    "city": "Torrente"
+  },
+  {
+    "city": "El Ejido"
+  },
+  {
+    "city": "Pontevedra"
+  },
+  {
+    "city": "Fuengirola"
+  },
+  {
+    "city": "Arona"
+  },
+  {
+    "city": "Vélez-Málaga"
+  },
+  {
+    "city": "Rubí"
+  },
+  {
+    "city": "Manresa"
+  },
+  {
+    "city": "Avilés"
+  },
+  {
+    "city": "Valdemoro"
+  },
+  {
+    "city": "Gandía"
+  },
+  {
+    "city": "Alcalá de Guadaira"
+  },
+  {
+    "city": "Molina de Segura"
+  },
+  {
+    "city": "Majadahonda"
+  },
+  {
+    "city": "Paterna"
+  },
+  {
+    "city": "Benidorm"
+  },
+  {
+    "city": "Sanlúcar de Barrameda"
+  },
+  {
+    "city": "Torremolinos"
+  },
+  {
+    "city": "Benalmádena"
+  },
+  {
+    "city": "Villanueva y Geltrú"
+  },
+  {
+    "city": "Castelldefels"
+  },
+  {
+    "city": "Viladecáns"
+  },
+  {
+    "city": "Sagunto"
+  },
+  {
+    "city": "Ferrol"
+  },
+  {
+    "city": "El Prat de Llobregat"
+  },
+  {
+    "city": "Arrecife"
+  },
+  {
+    "city": "Collado-Villalba"
+  },
+  {
+    "city": "La Línea de la Concepción"
+  },
+  {
+    "city": "Irún"
+  },
+  {
+    "city": "Granollers"
+  },
+  {
+    "city": "Zamora"
+  },
+  {
+    "city": "Mérida"
+  },
+  {
+    "city": "Alcoy"
+  },
+  {
+    "city": "San Vicente del Raspeig"
+  },
+  {
+    "city": "Motril"
+  },
+  {
+    "city": "Ávila"
+  },
+  {
+    "city": "Linares"
+  },
+  {
+    "city": "Cuenca"
+  },
+  {
+    "city": "Huesca"
+  },
+  {
+    "city": "San Bartolomé"
+  },
+  {
+    "city": "Pinto"
+  },
+  {
+    "city": "Elda"
+  },
+  {
+    "city": "Colmenar Viejo"
+  },
+  {
+    "city": "Mollet"
+  },
+  {
+    "city": "Torrelavega"
+  },
+  {
+    "city": "Pola de Siero"
+  },
+  {
+    "city": "Villareal"
+  },
+  {
+    "city": "Granadilla de Abona"
+  },
+  {
+    "city": "Ibiza"
+  },
+  {
+    "city": "Utrera"
+  },
+  {
+    "city": "Adeje"
+  },
+  {
+    "city": "Rincón de la Victoria"
+  },
+  {
+    "city": "Figueras"
+  },
+  {
+    "city": "Esplugas de Llobregat"
+  },
+  {
+    "city": "Gavá"
+  },
+  {
+    "city": "Puertollano"
+  },
+  {
+    "city": "Mairena del Aljarafe"
+  },
+  {
+    "city": "Santurce-Antiguo"
+  },
+  {
+    "city": "Portugalete"
+  },
+  {
+    "city": "San Felíu de Llobregat"
+  },
+  {
+    "city": "Alcira"
+  },
+  {
+    "city": "Manacor"
+  },
+  {
+    "city": "Mislata"
+  },
+  {
+    "city": "Denia"
+  },
+  {
+    "city": "Lucena"
+  },
+  {
+    "city": "Alcantarilla"
+  },
+  {
+    "city": "La Orotava"
+  },
+  {
+    "city": "Puerto del Rosario"
+  },
+  {
+    "city": "Puerto Real"
+  },
+  {
+    "city": "Antequera"
+  },
+  {
+    "city": "Alhaurín de la Torre"
+  },
+  {
+    "city": "Igualada"
+  },
+  {
+    "city": "Villafranca del Panadés"
+  },
+  {
+    "city": "Blanes"
+  },
+  {
+    "city": "Écija"
+  },
+  {
+    "city": "Plasencia"
+  },
+  {
+    "city": "San Fernando de Henares"
+  },
+  {
+    "city": "Santa Eulalia del Río"
+  },
+  {
+    "city": "Sama"
+  },
+  {
+    "city": "Lloret de Mar"
+  },
+  {
+    "city": "Narón"
+  },
+  {
+    "city": "Burjasot"
+  },
+  {
+    "city": "Los Palacios y Villafranca"
+  },
+  {
+    "city": "Vendrell"
+  },
+  {
+    "city": "Ripollet"
+  },
+  {
+    "city": "Lluchmayor"
+  },
+  {
+    "city": "Marratxi"
+  },
+  {
+    "city": "Villagarcía de Arosa"
+  },
+  {
+    "city": "Mieres"
+  },
+  {
+    "city": "San Adrián de Besós"
+  },
+  {
+    "city": "Don Benito"
+  },
+  {
+    "city": "Tudela"
+  },
+  {
+    "city": "Moncada"
+  },
+  {
+    "city": "Andújar"
+  },
+  {
+    "city": "Oleiros"
+  },
+  {
+    "city": "Torre-Pacheco"
+  },
+  {
+    "city": "Tomelloso"
+  },
+  {
+    "city": "Olot"
+  },
+  {
+    "city": "Onteniente"
+  },
+  {
+    "city": "Miranda de Ebro"
+  },
+  {
+    "city": "Águilas"
+  },
+  {
+    "city": "Teruel"
+  },
+  {
+    "city": "Cieza"
+  },
+  {
+    "city": "Villajoyosa"
+  },
+  {
+    "city": "Burriana"
+  },
+  {
+    "city": "Cambrils"
+  },
+  {
+    "city": "San Juan Despí"
+  },
+  {
+    "city": "Villena"
+  },
+  {
+    "city": "Almendralejo"
+  },
+  {
+    "city": "Ronda"
+  },
+  {
+    "city": "Inca"
+  },
+  {
+    "city": "Tortosa"
+  },
+  {
+    "city": "Santa Pola"
+  },
+  {
+    "city": "Aranda de Duero"
+  },
+  {
+    "city": "San Javier"
+  },
+  {
+    "city": "Mazarrón"
+  },
+  {
+    "city": "Arteijo"
+  },
+  {
+    "city": "Totana"
+  },
+  {
+    "city": "Castro-Urdiales"
+  },
+  {
+    "city": "Aldaya"
+  },
+  {
+    "city": "Salt"
+  },
+  {
+    "city": "Vall de Uxó"
+  },
+  {
+    "city": "Níjar"
+  },
+  {
+    "city": "San Roque"
+  },
+  {
+    "city": "Carballo"
+  },
+  {
+    "city": "Arroyomolinos"
+  },
+  {
+    "city": "Manises"
+  },
+  {
+    "city": "San Pedro de Ribas"
+  },
+  {
+    "city": "Coria del Río"
+  },
+  {
+    "city": "Arcos de la Frontera"
+  },
+  {
+    "city": "Alcázar de San Juan"
+  },
+  {
+    "city": "Culleredo"
+  },
+  {
+    "city": "San Andrés del Rabanedo"
+  },
+  {
+    "city": "Puerto de la Cruz"
+  },
+  {
+    "city": "Valdepeñas"
+  },
+  {
+    "city": "Chirivella"
+  },
+  {
+    "city": "Durango"
+  },
+  {
+    "city": "Puente-Genil"
+  },
+  {
+    "city": "Alacuás"
+  },
+  {
+    "city": "Mahón"
+  },
+  {
+    "city": "Sitges"
+  },
+  {
+    "city": "Crevillente"
+  },
+  {
+    "city": "Galdácano"
+  },
+  {
+    "city": "Rota"
+  },
+  {
+    "city": "Redondela"
+  },
+  {
+    "city": "Campello"
+  },
+  {
+    "city": "Vinaroz"
+  },
+  {
+    "city": "Martorell"
+  },
+  {
+    "city": "Catarroja"
+  },
+  {
+    "city": "Premiá de Mar"
+  },
+  {
+    "city": "Salou"
+  },
+  {
+    "city": "Candelaria"
+  },
+  {
+    "city": "Jávea"
+  },
+  {
+    "city": "Lepe"
+  },
+  {
+    "city": "Éibar"
+  },
+  {
+    "city": "Morón de la Frontera"
+  },
+  {
+    "city": "Calafell"
+  },
+  {
+    "city": "Lebrija"
+  },
+  {
+    "city": "San Andrés de la Barca"
+  },
+  {
+    "city": "Sueca"
+  },
+  {
+    "city": "Camas"
+  },
+  {
+    "city": "Sestao"
+  },
+  {
+    "city": "Algemesí"
+  },
+  {
+    "city": "Benicarló"
+  },
+  {
+    "city": "La Oliva"
+  },
+  {
+    "city": "Vícar"
+  },
+  {
+    "city": "Santa Eugenia"
+  },
+  {
+    "city": "Almazora"
+  },
+  {
+    "city": "Cártama"
+  },
+  {
+    "city": "Cangas"
+  },
+  {
+    "city": "Paiporta"
+  },
+  {
+    "city": "Santa Perpetua de Moguda"
+  },
+  {
+    "city": "Jumilla"
+  },
+  {
+    "city": "Molíns de Rey"
+  },
+  {
+    "city": "San Pedro del Pinatar"
+  },
+  {
+    "city": "Almuñécar"
+  },
+  {
+    "city": "Paracuellos de Jarama"
+  },
+  {
+    "city": "Villanueva de la Serena"
+  },
+  {
+    "city": "Novelda"
+  },
+  {
+    "city": "Renedo"
+  },
+  {
+    "city": "Muchamiel"
+  },
+  {
+    "city": "Tomares"
+  },
+  {
+    "city": "Adra"
+  },
+  {
+    "city": "Alhaurín el Grande"
+  },
+  {
+    "city": "Oliva"
+  },
+  {
+    "city": "Villarrobledo"
+  },
+  {
+    "city": "Ciempozuelos"
+  },
+  {
+    "city": "Cuart de Poblet"
+  },
+  {
+    "city": "Onda"
+  },
+  {
+    "city": "Puebla de Vallbona"
+  },
+  {
+    "city": "Alboraya"
+  },
+  {
+    "city": "Bétera"
+  },
+  {
+    "city": "Cambre"
+  },
+  {
+    "city": "Calahorra"
+  },
+  {
+    "city": "Erandio"
+  },
+  {
+    "city": "Almansa"
+  },
+  {
+    "city": "Almonte"
+  },
+  {
+    "city": "Valls"
+  },
+  {
+    "city": "San Juan de Alicante"
+  },
+  {
+    "city": "Armilla"
+  },
+  {
+    "city": "Olesa de Montserrat"
+  },
+  {
+    "city": "Torrelodones"
+  },
+  {
+    "city": "Masnou"
+  },
+  {
+    "city": "Los Barrios"
+  },
+  {
+    "city": "Mairena del Alcor"
+  },
+  {
+    "city": "Ibi"
+  },
+  {
+    "city": "Liria"
+  },
+  {
+    "city": "Zarautz"
+  },
+  {
+    "city": "Calpe"
+  },
+  {
+    "city": "Icod de los Vinos"
+  },
+  {
+    "city": "Puenteareas"
+  },
+  {
+    "city": "Conil de la Frontera"
+  },
+  {
+    "city": "Laguna de Duero"
+  },
+  {
+    "city": "Montilla"
+  },
+  {
+    "city": "Coín"
+  },
+  {
+    "city": "Altea"
+  },
+  {
+    "city": "Barbate de Franco"
+  },
+  {
+    "city": "Vilaseca de Solcina"
+  },
+  {
+    "city": "Cullera"
+  },
+  {
+    "city": "Priego de Córdoba"
+  },
+  {
+    "city": "Pilar de la Horadada"
+  },
+  {
+    "city": "Maracena"
+  },
+  {
+    "city": "Esparraguera"
+  },
+  {
+    "city": "Bormujos"
+  },
+  {
+    "city": "Torre del Mar"
+  },
+  {
+    "city": "Alhama de Murcia"
+  },
+  {
+    "city": "San Felíu de Guixols"
+  },
+  {
+    "city": "Moncada"
+  },
+  {
+    "city": "Moguer"
+  },
+  {
+    "city": "Guía de Isora"
+  },
+  {
+    "city": "San Juan de Aznalfarache"
+  },
+  {
+    "city": "Las Torres de Cotillas"
+  },
+  {
+    "city": "Alcalá la Real"
+  },
+  {
+    "city": "Aljaraque"
+  },
+  {
+    "city": "Alfafar"
+  },
+  {
+    "city": "Isla-Cristina"
+  },
+  {
+    "city": "Pájara"
+  },
+  {
+    "city": "Picasent"
+  },
+  {
+    "city": "Almoradí"
+  },
+  {
+    "city": "Nerja"
+  },
+  {
+    "city": "Ayamonte"
+  },
+  {
+    "city": "Palafrugell"
+  },
+  {
+    "city": "San Juan de Vilasar"
+  },
+  {
+    "city": "Palma del Río"
+  },
+  {
+    "city": "Manlleu"
+  },
+  {
+    "city": "Alcudia"
+  },
+  {
+    "city": "Aspe"
+  },
+  {
+    "city": "Los Llanos de Aridane"
+  },
+  {
+    "city": "Güimar"
+  },
+  {
+    "city": "La Unión"
+  },
+  {
+    "city": "Hernani"
+  },
+  {
+    "city": "Carcagente"
+  },
+  {
+    "city": "Baza"
+  },
+  {
+    "city": "Loja"
+  },
+  {
+    "city": "Medina del Campo"
+  },
+  {
+    "city": "Requena"
+  },
+  {
+    "city": "La Estrada"
+  },
+  {
+    "city": "Cabra"
+  },
+  {
+    "city": "Lalín"
+  },
+  {
+    "city": "Barañáin"
+  },
+  {
+    "city": "Porriño"
+  },
+  {
+    "city": "Calatayud"
+  },
+  {
+    "city": "Cartaya"
+  },
+  {
+    "city": "Bañolas"
+  },
+  {
+    "city": "Rosas"
+  },
+  {
+    "city": "Puzol"
+  },
+  {
+    "city": "El Arahal"
+  },
+  {
+    "city": "Amorebieta"
+  },
+  {
+    "city": "Moaña"
+  },
+  {
+    "city": "Huércal-Overa"
+  },
+  {
+    "city": "Archena"
+  },
+  {
+    "city": "Zubia"
+  },
+  {
+    "city": "Marchena"
+  },
+  {
+    "city": "El Viso del Alcor"
+  },
+  {
+    "city": "Calella"
+  },
+  {
+    "city": "Chipiona"
+  },
+  {
+    "city": "Callosa de Segura"
+  },
+  {
+    "city": "Silla"
+  },
+  {
+    "city": "Baena"
+  },
+  {
+    "city": "Albolote"
+  },
+  {
+    "city": "Atarfe"
+  },
+  {
+    "city": "Utebo"
+  },
+  {
+    "city": "Malgrat de Mar"
+  },
+  {
+    "city": "Villaquilambre"
+  },
+  {
+    "city": "Sant Just Desvern"
+  },
+  {
+    "city": "Lora del Río"
+  },
+  {
+    "city": "San Lorenzo de El Escorial"
+  },
+  {
+    "city": "Guadix"
+  },
+  {
+    "city": "Cardedeu"
+  },
+  {
+    "city": "Benicasim"
+  },
+  {
+    "city": "La Eliana"
+  },
+  {
+    "city": "Felanitx"
+  },
+  {
+    "city": "Tarifa"
+  },
+  {
+    "city": "La Nucía"
+  },
+  {
+    "city": "San Celoni"
+  },
+  {
+    "city": "El Astillero"
+  },
+  {
+    "city": "Manzanares"
+  },
+  {
+    "city": "Torrox"
+  },
+  {
+    "city": "Huércal de Almería"
+  },
+  {
+    "city": "Daimiel"
+  },
+  {
+    "city": "Caldas de Montbuy"
+  },
+  {
+    "city": "Benavente"
+  },
+  {
+    "city": "Nigrán"
+  },
+  {
+    "city": "Munguía"
+  },
+  {
+    "city": "Osuna"
+  },
+  {
+    "city": "Bailén"
+  },
+  {
+    "city": "Castilleja de la Cuesta"
+  },
+  {
+    "city": "Balaguer"
+  },
+  {
+    "city": "Tárrega"
+  },
+  {
+    "city": "Sangenjo"
+  },
+  {
+    "city": "Tabernes de Valldigna"
+  },
+  {
+    "city": "Pozoblanco"
+  },
+  {
+    "city": "Barbastro"
+  },
+  {
+    "city": "Navalmoral de la Mata"
+  },
+  {
+    "city": "Guernica y Luno"
+  },
+  {
+    "city": "Poyo"
+  },
+  {
+    "city": "Mula"
+  },
+  {
+    "city": "Vera"
+  },
+  {
+    "city": "Bermeo"
+  },
+  {
+    "city": "Canovellas"
+  },
+  {
+    "city": "Zafra"
+  },
+  {
+    "city": "Fuente-Álamo de Murcia"
+  },
+  {
+    "city": "Berga"
+  },
+  {
+    "city": "Rojales"
+  },
+  {
+    "city": "La Garriga"
+  },
+  {
+    "city": "Pollensa"
+  },
+  {
+    "city": "Montornés del Vallés"
+  },
+  {
+    "city": "Ubrique"
+  },
+  {
+    "city": "Los Alcázares"
+  },
+  {
+    "city": "Albal"
+  },
+  {
+    "city": "Torredembarra"
+  },
+  {
+    "city": "Guadarrama"
+  },
+  {
+    "city": "La Algaba"
+  },
+  {
+    "city": "Manilva"
+  },
+  {
+    "city": "Las Cabezas de San Juan"
+  },
+  {
+    "city": "Santomera"
+  },
+  {
+    "city": "Arzúa"
+  },
+  {
+    "city": "Sada"
+  },
+  {
+    "city": "Masamagrell"
+  },
+  {
+    "city": "Piera"
+  },
+  {
+    "city": "Alcañiz"
+  },
+  {
+    "city": "Arenys de Mar"
+  },
+  {
+    "city": "Guardamar del Segura"
+  },
+  {
+    "city": "Ermúa"
+  },
+  {
+    "city": "Espartinas"
+  },
+  {
+    "city": "Baeza"
+  },
+  {
+    "city": "Lumbreras"
+  },
+  {
+    "city": "Cubellas"
+  },
+  {
+    "city": "Santa Cruz de la Palma"
+  },
+  {
+    "city": "Churriana de la Vega"
+  },
+  {
+    "city": "La Roda"
+  },
+  {
+    "city": "Miguelturra"
+  },
+  {
+    "city": "La Solana"
+  },
+  {
+    "city": "Chiva"
+  },
+  {
+    "city": "Vieiro"
+  },
+  {
+    "city": "Punta Umbría"
+  },
+  {
+    "city": "Fraga"
+  },
+  {
+    "city": "La Carolina"
+  },
+  {
+    "city": "Azpeitia"
+  },
+  {
+    "city": "Cizur Mayor"
+  },
+  {
+    "city": "Vergara"
+  },
+  {
+    "city": "Arnedo"
+  },
+  {
+    "city": "Benetúser"
+  },
+  {
+    "city": "Santa Úrsula"
+  },
+  {
+    "city": "San Carlos de la Rápita"
+  },
+  {
+    "city": "Corbera de Llobregat"
+  },
+  {
+    "city": "Canet de Mar"
+  },
+  {
+    "city": "Cehegín"
+  },
+  {
+    "city": "Gondomar"
+  },
+  {
+    "city": "Andoain"
+  },
+  {
+    "city": "Meco"
+  },
+  {
+    "city": "Mollerusa"
+  },
+  {
+    "city": "Villaviciosa"
+  },
+  {
+    "city": "Cuevas del Almanzora"
+  },
+  {
+    "city": "Torelló"
+  },
+  {
+    "city": "Bollullos par del Condado"
+  },
+  {
+    "city": "Ogíjares"
+  },
+  {
+    "city": "Noya"
+  },
+  {
+    "city": "Torre del Campo"
+  },
+  {
+    "city": "Sopelana"
+  },
+  {
+    "city": "Carballino"
+  },
+  {
+    "city": "La Carlota"
+  },
+  {
+    "city": "Villalba"
+  },
+  {
+    "city": "Pilas"
+  },
+  {
+    "city": "Sanlúcar la Mayor"
+  },
+  {
+    "city": "Beasain"
+  },
+  {
+    "city": "Guia"
+  },
+  {
+    "city": "Alginet"
+  },
+  {
+    "city": "La Puebla"
+  },
+  {
+    "city": "Cambados"
+  },
+  {
+    "city": "Llanera"
+  },
+  {
+    "city": "Torrijos"
+  },
+  {
+    "city": "Verín"
+  },
+  {
+    "city": "Sóller"
+  },
+  {
+    "city": "Torredonjimeno"
+  },
+  {
+    "city": "La Llagosta"
+  },
+  {
+    "city": "Tomiño"
+  },
+  {
+    "city": "Cunit"
+  },
+  {
+    "city": "Canals"
+  },
+  {
+    "city": "Llanes"
+  },
+  {
+    "city": "San Agustín de Guadalix"
+  },
+  {
+    "city": "Cuarte de Huerva"
+  },
+  {
+    "city": "El Barco de Valdeorras"
+  },
+  {
+    "city": "Gines"
+  },
+  {
+    "city": "Aguilar"
+  },
+  {
+    "city": "Santa Coloma de Farnés"
+  },
+  {
+    "city": "Sarria"
+  },
+  {
+    "city": "Campo de Criptana"
+  },
+  {
+    "city": "Nules"
+  },
+  {
+    "city": "Alora"
+  },
+  {
+    "city": "Santa Cruz de Bezana"
+  },
+  {
+    "city": "Betanzos"
+  },
+  {
+    "city": "Abarán"
+  },
+  {
+    "city": "Pola de Laviana"
+  },
+  {
+    "city": "Fene"
+  },
+  {
+    "city": "Sant Sadurní d’Anoia"
+  },
+  {
+    "city": "Santa Margarita"
+  },
+  {
+    "city": "Valverde del Camino"
+  },
+  {
+    "city": "Gibraleón"
+  },
+  {
+    "city": "Villafranca de los Barros"
+  },
+  {
+    "city": "Vejer de la Frontera"
+  },
+  {
+    "city": "Vilanova del Camí"
+  },
+  {
+    "city": "Berja"
+  },
+  {
+    "city": "Castellbisbal"
+  },
+  {
+    "city": "Abrera"
+  },
+  {
+    "city": "Argentona"
+  },
+  {
+    "city": "Teror"
+  },
+  {
+    "city": "Salobreña"
+  },
+  {
+    "city": "Brenes"
+  },
+  {
+    "city": "Estepa"
+  },
+  {
+    "city": "Albatera"
+  },
+  {
+    "city": "Ocaña"
+  },
+  {
+    "city": "Santañy"
+  },
+  {
+    "city": "Arrigorriaga"
+  },
+  {
+    "city": "Monóvar"
+  },
+  {
+    "city": "Mongat"
+  },
+  {
+    "city": "Acalá del Río"
+  },
+  {
+    "city": "Capdepera"
+  },
+  {
+    "city": "Villamartín"
+  },
+  {
+    "city": "Bayona"
+  },
+  {
+    "city": "Cangas de Narcea"
+  },
+  {
+    "city": "Alcudia de Carlet"
+  },
+  {
+    "city": "Albox"
+  },
+  {
+    "city": "Socuéllamos"
+  },
+  {
+    "city": "Huétor Vega"
+  },
+  {
+    "city": "Bolaños de Calatrava"
+  },
+  {
+    "city": "Ceuti"
+  },
+  {
+    "city": "Benifayó"
+  },
+  {
+    "city": "Bueu"
+  },
+  {
+    "city": "La Puebla del Río"
+  },
+  {
+    "city": "Olivenza"
+  },
+  {
+    "city": "Son Servera"
+  },
+  {
+    "city": "Medina Sidonia"
+  },
+  {
+    "city": "Palos de la Frontera"
+  },
+  {
+    "city": "Jódar"
+  },
+  {
+    "city": "Azcoitia"
+  },
+  {
+    "city": "Pallejá"
+  },
+  {
+    "city": "Picaña"
+  },
+  {
+    "city": "Elgóibar"
+  },
+  {
+    "city": "Bullas"
+  },
+  {
+    "city": "Oñate"
+  },
+  {
+    "city": "Peligros"
+  },
+  {
+    "city": "Beniel"
+  },
+  {
+    "city": "Utiel"
+  },
+  {
+    "city": "Andraitx"
+  },
+  {
+    "city": "Laracha"
+  },
+  {
+    "city": "Mancha Real"
+  },
+  {
+    "city": "Benisa"
+  },
+  {
+    "city": "Tegueste"
+  },
+  {
+    "city": "Campos del Puerto"
+  },
+  {
+    "city": "Santiago del Teide"
+  },
+  {
+    "city": "Teulada"
+  },
+  {
+    "city": "Benaguacil"
+  },
+  {
+    "city": "Beniaján"
+  },
+  {
+    "city": "Barbadanes"
+  },
+  {
+    "city": "San Andrés de Llevaneras"
+  },
+  {
+    "city": "Sonseca"
+  },
+  {
+    "city": "Laredo"
+  },
+  {
+    "city": "Santoña"
+  },
+  {
+    "city": "Rianxo"
+  },
+  {
+    "city": "Sant Joan de Vilatorrada"
+  },
+  {
+    "city": "Meliana"
+  },
+  {
+    "city": "La Puebla de Cazalla"
+  },
+  {
+    "city": "Bollullos de la Mitación"
+  },
+  {
+    "city": "Aizoáin"
+  },
+  {
+    "city": "Lardero"
+  },
+  {
+    "city": "Ripoll"
+  },
+  {
+    "city": "La Palma del Condado"
+  },
+  {
+    "city": "Los Corrales de Buelna"
+  },
+  {
+    "city": "Astorga"
+  },
+  {
+    "city": "Cantillana"
+  },
+  {
+    "city": "Pola de Lena"
+  },
+  {
+    "city": "Villacarrillo"
+  },
+  {
+    "city": "Berriozar"
+  },
+  {
+    "city": "Tafalla"
+  },
+  {
+    "city": "Peñarroya-Pueblonuevo"
+  },
+  {
+    "city": "Tarazona de Aragón"
+  },
+  {
+    "city": "Bargas"
+  },
+  {
+    "city": "Alberique"
+  },
+  {
+    "city": "Grove"
+  },
+  {
+    "city": "Alcaudete"
+  },
+  {
+    "city": "Castalla"
+  },
+  {
+    "city": "Alcora"
+  },
+  {
+    "city": "Cabañaquinta"
+  },
+  {
+    "city": "Cassá de la Selva"
+  },
+  {
+    "city": "Huétor-Tájar"
+  },
+  {
+    "city": "Sedaví"
+  },
+  {
+    "city": "Pulpí"
+  },
+  {
+    "city": "Madridejos"
+  },
+  {
+    "city": "Candás"
+  },
+  {
+    "city": "La Bañeza"
+  },
+  {
+    "city": "Fortuna"
+  },
+  {
+    "city": "Luanco"
+  },
+  {
+    "city": "Amurrio"
+  },
+  {
+    "city": "La Escala"
+  },
+  {
+    "city": "Villanueva de Arosa"
+  },
+  {
+    "city": "Santa Margarita de Mombúy"
+  },
+  {
+    "city": "Gelves"
+  },
+  {
+    "city": "Canteras"
+  },
+  {
+    "city": "Calasparra"
+  },
+  {
+    "city": "Zumaia"
+  },
+  {
+    "city": "Puentes de García Rodríguez"
+  },
+  {
+    "city": "Illora"
+  },
+  {
+    "city": "Caspe"
+  },
+  {
+    "city": "La Guardia"
+  },
+  {
+    "city": "Foz"
+  },
+  {
+    "city": "Caudete"
+  },
+  {
+    "city": "Mengibar"
+  },
+  {
+    "city": "Salvatierra de Miño"
+  },
+  {
+    "city": "Alella"
+  },
+  {
+    "city": "Rute"
+  },
+  {
+    "city": "Pinos Puente"
+  },
+  {
+    "city": "Villamarchante"
+  },
+  {
+    "city": "El Álamo"
+  },
+  {
+    "city": "Ribadeo"
+  },
+  {
+    "city": "Mora"
+  },
+  {
+    "city": "Masanasa"
+  },
+  {
+    "city": "Caldas de Reyes"
+  },
+  {
+    "city": "San Vicente de Castellet"
+  },
+  {
+    "city": "Fuente Palmera"
+  },
+  {
+    "city": "Villarrubia de los Ojos"
+  },
+  {
+    "city": "Alguazas"
+  },
+  {
+    "city": "Binéfar"
+  },
+  {
+    "city": "Alcarraz"
+  },
+  {
+    "city": "Grado"
+  },
+  {
+    "city": "Cuéllar"
+  },
+  {
+    "city": "Fernán-Núñez"
+  },
+  {
+    "city": "Santa María de Palautordera"
+  },
+  {
+    "city": "Alfaro"
+  },
+  {
+    "city": "Piedras Blancas"
+  },
+  {
+    "city": "Miajadas"
+  },
+  {
+    "city": "Garrucha"
+  },
+  {
+    "city": "Alhendín"
+  },
+  {
+    "city": "Buñol"
+  },
+  {
+    "city": "Burela de Cabo"
+  },
+  {
+    "city": "Matadepera"
+  },
+  {
+    "city": "Tocina"
+  },
+  {
+    "city": "Alayor"
+  },
+  {
+    "city": "Olivares"
+  },
+  {
+    "city": "Pizarra"
+  },
+  {
+    "city": "Alcanar"
+  },
+  {
+    "city": "San Juan del Puerto"
+  },
+  {
+    "city": "Masquefa"
+  },
+  {
+    "city": "Sevilla La Nueva"
+  },
+  {
+    "city": "Valsequillo de Gran Canaria"
+  },
+  {
+    "city": "Santa Comba"
+  },
+  {
+    "city": "Cervera"
+  },
+  {
+    "city": "Puebla del Caramiñal"
+  },
+  {
+    "city": "Muro del Alcoy"
+  },
+  {
+    "city": "Montoro"
+  },
+  {
+    "city": "El Molar"
+  },
+  {
+    "city": "San Sebastián de la Gomera"
+  },
+  {
+    "city": "Senmanat"
+  },
+  {
+    "city": "Colmenarejo"
+  },
+  {
+    "city": "Tabernes Blanques"
+  },
+  {
+    "city": "Tineo"
+  },
+  {
+    "city": "El Campo"
+  },
+  {
+    "city": "Sabiñánigo"
+  },
+  {
+    "city": "Santa María de Cayón"
+  },
+  {
+    "city": "La Victoria de Acentejo"
+  },
+  {
+    "city": "Rafelbuñol"
+  },
+  {
+    "city": "Solsona"
+  },
+  {
+    "city": "Arenys de Munt"
+  },
+  {
+    "city": "Segorbe"
+  },
+  {
+    "city": "El Espinar"
+  },
+  {
+    "city": "Cervelló"
+  },
+  {
+    "city": "La Matanza de Acentejo"
+  },
+  {
+    "city": "Cistérniga"
+  },
+  {
+    "city": "Umbrete"
+  },
+  {
+    "city": "Almusafes"
+  },
+  {
+    "city": "Reinosa"
+  },
+  {
+    "city": "Tiana"
+  },
+  {
+    "city": "Sauzal"
+  },
+  {
+    "city": "Manzanares el Real"
+  },
+  {
+    "city": "Almagro"
+  },
+  {
+    "city": "Catral"
+  },
+  {
+    "city": "Loeches"
+  },
+  {
+    "city": "Silleda"
+  },
+  {
+    "city": "San Fausto de Campcentellas"
+  },
+  {
+    "city": "Palomares del Río"
+  },
+  {
+    "city": "San Fructuoso de Bagés"
+  },
+  {
+    "city": "Montmeló"
+  },
+  {
+    "city": "Suances"
+  },
+  {
+    "city": "Binisalem"
+  },
+  {
+    "city": "Tordesillas"
+  },
+  {
+    "city": "San Lorenzo de Descardazar"
+  },
+  {
+    "city": "Cheste"
+  },
+  {
+    "city": "Puig"
+  },
+  {
+    "city": "Padul"
+  },
+  {
+    "city": "Villanueva de Córdoba"
+  },
+  {
+    "city": "Toro"
+  },
+  {
+    "city": "Llagostera"
+  },
+  {
+    "city": "Colindres"
+  },
+  {
+    "city": "Bembibre"
+  },
+  {
+    "city": "Santiponce"
+  },
+  {
+    "city": "Polinyá"
+  },
+  {
+    "city": "Herencia"
+  },
+  {
+    "city": "El Corrillo"
+  },
+  {
+    "city": "Valldoreix"
+  },
+  {
+    "city": "Reocín"
+  },
+  {
+    "city": "Ondárroa"
+  },
+  {
+    "city": "Campillos"
+  },
+  {
+    "city": "Ortuella"
+  },
+  {
+    "city": "Padrón"
+  },
+  {
+    "city": "Villamediana de Iregua"
+  },
+  {
+    "city": "Cabezón de la Sal"
+  },
+  {
+    "city": "Tona"
+  },
+  {
+    "city": "Monforte del Cid"
+  },
+  {
+    "city": "Navia"
+  },
+  {
+    "city": "Legazpia"
+  },
+  {
+    "city": "Ollería"
+  },
+  {
+    "city": "Santa Coloma de Cervelló"
+  },
+  {
+    "city": "Aracena"
+  },
+  {
+    "city": "Monserrat"
+  },
+  {
+    "city": "Archidona"
+  },
+  {
+    "city": "Chantada"
+  },
+  {
+    "city": "Cenes de la Vega"
+  },
+  {
+    "city": "Puebla de Farnals"
+  },
+  {
+    "city": "Arico el Nuevo"
+  },
+  {
+    "city": "Carboneras"
+  },
+  {
+    "city": "Corella"
+  },
+  {
+    "city": "Roquetas"
+  },
+  {
+    "city": "Villanueva del Arzobispo"
+  },
+  {
+    "city": "Los Santos de Maimona"
+  },
+  {
+    "city": "Nájera"
+  },
+  {
+    "city": "Olvera"
+  },
+  {
+    "city": "Cintruénigo"
+  },
+  {
+    "city": "Pinoso"
+  },
+  {
+    "city": "Monachil"
+  },
+  {
+    "city": "Pravia"
+  },
+  {
+    "city": "Artá"
+  },
+  {
+    "city": "Arévalo"
+  },
+  {
+    "city": "Vidreras"
+  },
+  {
+    "city": "Almodóvar del Río"
+  },
+  {
+    "city": "Redován"
+  },
+  {
+    "city": "Brion"
+  },
+  {
+    "city": "Pedreguer"
+  },
+  {
+    "city": "Malagón"
+  },
+  {
+    "city": "Caldas de Malavella"
+  },
+  {
+    "city": "Trigueros"
+  },
+  {
+    "city": "La Puebla de Montalbán"
+  },
+  {
+    "city": "Villaverde del Río"
+  },
+  {
+    "city": "Valencina de la Concepción"
+  },
+  {
+    "city": "Castro del Río"
+  },
+  {
+    "city": "Puentedeume"
+  },
+  {
+    "city": "Benahavís"
+  },
+  {
+    "city": "Azuaga"
+  },
+  {
+    "city": "Valmaseda"
+  },
+  {
+    "city": "Tobarra"
+  },
+  {
+    "city": "San Esteban Sasroviras"
+  },
+  {
+    "city": "Marchamalo"
+  },
+  {
+    "city": "Peñíscola"
+  },
+  {
+    "city": "Gerena"
+  },
+  {
+    "city": "Gélida"
+  },
+  {
+    "city": "Abadiano Celayeta"
+  },
+  {
+    "city": "Bornos"
+  },
+  {
+    "city": "El Paso"
+  },
+  {
+    "city": "Sampedor"
+  },
+  {
+    "city": "Onil"
+  },
+  {
+    "city": "Vega de San Mateo"
+  },
+  {
+    "city": "Cee"
+  },
+  {
+    "city": "Cúllar-Vega"
+  },
+  {
+    "city": "Viladecaballs"
+  },
+  {
+    "city": "Oroso"
+  },
+  {
+    "city": "Dolores"
+  },
+  {
+    "city": "La Rambla"
+  },
+  {
+    "city": "Callosa de Ensarriá"
+  },
+  {
+    "city": "Centellas"
+  },
+  {
+    "city": "San Nicolás"
+  },
+  {
+    "city": "Cobeña"
+  },
+  {
+    "city": "Foyos"
+  },
+  {
+    "city": "Almácera"
+  },
+  {
+    "city": "Villarejo de Salvanés"
+  },
+  {
+    "city": "Cabrils"
+  },
+  {
+    "city": "Santa Eulalia de Ronsaná"
+  },
+  {
+    "city": "Sotomayor"
+  },
+  {
+    "city": "Talayuela"
+  },
+  {
+    "city": "Cox"
+  },
+  {
+    "city": "Montblanch"
+  },
+  {
+    "city": "Valverde de la Virgen"
+  },
+  {
+    "city": "Elorrio"
+  },
+  {
+    "city": "Albuñol"
+  },
+  {
+    "city": "Cazorla"
+  },
+  {
+    "city": "Andorra"
+  },
+  {
+    "city": "Bujalance"
+  },
+  {
+    "city": "Lekeitio"
+  },
+  {
+    "city": "Rocafort"
+  },
+  {
+    "city": "Begas"
+  },
+  {
+    "city": "Pedro Muñoz"
+  },
+  {
+    "city": "Guisona"
+  },
+  {
+    "city": "Breña Alta"
+  },
+  {
+    "city": "Lorquí"
+  },
+  {
+    "city": "Benacazón"
+  },
+  {
+    "city": "Torreperogil"
+  },
+  {
+    "city": "Berango"
+  },
+  {
+    "city": "Villamayor"
+  },
+  {
+    "city": "Cercedilla"
+  },
+  {
+    "city": "Huéscar"
+  },
+  {
+    "city": "Fuentes de Andalucía"
+  },
+  {
+    "city": "Dúrcal"
+  },
+  {
+    "city": "Collado Mediano"
+  },
+  {
+    "city": "Arechavaleta"
+  },
+  {
+    "city": "Finestrat"
+  },
+  {
+    "city": "Ondara"
+  },
+  {
+    "city": "Villa del Río"
+  },
+  {
+    "city": "Massanet de la Selva"
+  },
+  {
+    "city": "Montellano"
+  },
+  {
+    "city": "Astigarraga"
+  },
+  {
+    "city": "San Clemente"
+  },
+  {
+    "city": "Benalup de Sidonia"
+  },
+  {
+    "city": "Vimianzo"
+  },
+  {
+    "city": "Argamasilla de Alba"
+  },
+  {
+    "city": "Puerto Serrano"
+  },
+  {
+    "city": "Bigastro"
+  },
+  {
+    "city": "Náquera"
+  },
+  {
+    "city": "Buñola"
+  },
+  {
+    "city": "Guareña"
+  },
+  {
+    "city": "Casares"
+  },
+  {
+    "city": "Infiesto"
+  },
+  {
+    "city": "La Ametlla de Mar"
+  },
+  {
+    "city": "Paradas"
+  },
+  {
+    "city": "Vacarisas"
+  },
+  {
+    "city": "Almacellas"
+  },
+  {
+    "city": "Fuente el Saz"
+  },
+  {
+    "city": "Negreira"
+  },
+  {
+    "city": "Roda de Bará"
+  },
+  {
+    "city": "Mojácar"
+  },
+  {
+    "city": "Burguillos"
+  },
+  {
+    "city": "Canet de Berenguer"
+  },
+  {
+    "city": "Marmolejo"
+  },
+  {
+    "city": "Güeñes"
+  },
+  {
+    "city": "San Luis"
+  },
+  {
+    "city": "Sallent"
+  },
+  {
+    "city": "Derio"
+  },
+  {
+    "city": "Turís"
+  },
+  {
+    "city": "Fuente del Maestre"
+  },
+  {
+    "city": "Moncófar"
+  },
+  {
+    "city": "Jimena de la Frontera"
+  },
+  {
+    "city": "Hinojosa del Duque"
+  },
+  {
+    "city": "Moraleja"
+  },
+  {
+    "city": "Cedeira"
+  },
+  {
+    "city": "Constantí"
+  },
+  {
+    "city": "Bergondo"
+  },
+  {
+    "city": "Taradell"
+  },
+  {
+    "city": "Las Pedroñeras"
+  },
+  {
+    "city": "Alcalá de Chivert"
+  },
+  {
+    "city": "Arbucias"
+  },
+  {
+    "city": "Museros"
+  },
+  {
+    "city": "Villanueva del Ariscal"
+  },
+  {
+    "city": "Briviesca"
+  },
+  {
+    "city": "Ríudoms"
+  },
+  {
+    "city": "Blanca"
+  },
+  {
+    "city": "Argés"
+  },
+  {
+    "city": "Algarrobo"
+  },
+  {
+    "city": "Vélez Rubio"
+  },
+  {
+    "city": "Valdoviño"
+  },
+  {
+    "city": "Jaraiz de la Vera"
+  },
+  {
+    "city": "Llissá de Vall"
+  },
+  {
+    "city": "Roda del Ter"
+  },
+  {
+    "city": "Carral"
+  },
+  {
+    "city": "Villamuriel de Cerrato"
+  },
+  {
+    "city": "Herrera"
+  },
+  {
+    "city": "San Vicente de Mont-Alt"
+  },
+  {
+    "city": "Teyá"
+  },
+  {
+    "city": "Venta de Baños"
+  },
+  {
+    "city": "Moyá"
+  },
+  {
+    "city": "San Felíu de Codinas"
+  },
+  {
+    "city": "Miraflores de la Sierra"
+  },
+  {
+    "city": "Puebla de Alfindén"
+  },
+  {
+    "city": "Pereiro de Aguiar"
+  },
+  {
+    "city": "San Adrián"
+  },
+  {
+    "city": "Arenas de San Pedro"
+  },
+  {
+    "city": "Iscar"
+  },
+  {
+    "city": "San Miguel de Salinas"
+  },
+  {
+    "city": "Rosal"
+  },
+  {
+    "city": "Santo Domingo de la Calzada"
+  },
+  {
+    "city": "Alpicat"
+  },
+  {
+    "city": "Olula del Río"
+  },
+  {
+    "city": "Allariz"
+  },
+  {
+    "city": "Gata de Gorgos"
+  },
+  {
+    "city": "Zaratán"
+  },
+  {
+    "city": "Sils"
+  },
+  {
+    "city": "San Antonio de Vilamajor"
+  },
+  {
+    "city": "Tarazona de la Mancha"
+  },
+  {
+    "city": "Urnieta"
+  },
+  {
+    "city": "Almensilla"
+  },
+  {
+    "city": "Usúrbil"
+  },
+  {
+    "city": "Calamonte"
+  },
+  {
+    "city": "Porcuna"
+  },
+  {
+    "city": "Outes"
+  },
+  {
+    "city": "Lloseta"
+  },
+  {
+    "city": "Nazaret"
+  },
+  {
+    "city": "Lezo"
+  },
+  {
+    "city": "Abanilla"
+  },
+  {
+    "city": "Orio"
+  },
+  {
+    "city": "Almenara"
+  },
+  {
+    "city": "Aznalcóllar"
+  },
+  {
+    "city": "Torrellas de Llobregat"
+  },
+  {
+    "city": "Bonares"
+  },
+  {
+    "city": "Navarcles"
+  },
+  {
+    "city": "Los Villares"
+  },
+  {
+    "city": "Navás"
+  },
+  {
+    "city": "Almodóvar del Campo"
+  },
+  {
+    "city": "Viator"
+  },
+  {
+    "city": "La Canonja"
+  },
+  {
+    "city": "Coristanco"
+  },
+  {
+    "city": "Suria"
+  },
+  {
+    "city": "Membrilla"
+  },
+  {
+    "city": "Vilaboa"
+  },
+  {
+    "city": "Albaida"
+  },
+  {
+    "city": "Tremp"
+  },
+  {
+    "city": "Gójar"
+  },
+  {
+    "city": "Guadasuar"
+  },
+  {
+    "city": "Górliz-Elexalde"
+  },
+  {
+    "city": "Los Yébenes"
+  },
+  {
+    "city": "Villabona"
+  },
+  {
+    "city": "Guardo"
+  },
+  {
+    "city": "Alhama de Granada"
+  },
+  {
+    "city": "Constantina"
+  },
+  {
+    "city": "Argamasilla de Calatrava"
+  },
+  {
+    "city": "Puebla de la Calzada"
+  },
+  {
+    "city": "Lazcano"
+  },
+  {
+    "city": "Ares"
+  },
+  {
+    "city": "Valga"
+  },
+  {
+    "city": "Breña Baja"
+  },
+  {
+    "city": "Algaida"
+  },
+  {
+    "city": "Órjiva"
+  },
+  {
+    "city": "Castuera"
+  },
+  {
+    "city": "Benigánim"
+  },
+  {
+    "city": "Arroyo de la Luz"
+  },
+  {
+    "city": "Artés"
+  },
+  {
+    "city": "Huelma"
+  },
+  {
+    "city": "Llerena"
+  },
+  {
+    "city": "Medina de Pomar"
+  },
+  {
+    "city": "Cartes"
+  },
+  {
+    "city": "Montehermoso"
+  },
+  {
+    "city": "San Hilario Sacalm"
+  },
+  {
+    "city": "Ribadesella"
+  },
+  {
+    "city": "La Selva"
+  },
+  {
+    "city": "Anglés"
+  },
+  {
+    "city": "Dosríus"
+  },
+  {
+    "city": "Celanova"
+  },
+  {
+    "city": "La Cenia"
+  },
+  {
+    "city": "Aldeamayor de San Martín"
+  },
+  {
+    "city": "Santa Marta de Ortigueira"
+  },
+  {
+    "city": "Esquivias"
+  },
+  {
+    "city": "Alaró"
+  },
+  {
+    "city": "Arafo"
+  },
+  {
+    "city": "Prado del Rey"
+  },
+  {
+    "city": "Porreras"
+  },
+  {
+    "city": "Torreblanca"
+  },
+  {
+    "city": "Nueva-Carteya"
+  },
+  {
+    "city": "Salteras"
+  },
+  {
+    "city": "Celrá"
+  },
+  {
+    "city": "Yeles"
+  },
+  {
+    "city": "Chauchina"
+  },
+  {
+    "city": "La Guancha"
+  },
+  {
+    "city": "Puente Caldelas"
+  },
+  {
+    "city": "Arjona"
+  },
+  {
+    "city": "Algodonales"
+  },
+  {
+    "city": "Vilanova de la Roca"
+  },
+  {
+    "city": "Guitiriz"
+  },
+  {
+    "city": "Alfacar"
+  },
+  {
+    "city": "Macael"
+  },
+  {
+    "city": "Aceuchal"
+  },
+  {
+    "city": "Almazán"
+  },
+  {
+    "city": "Pulianas"
+  },
+  {
+    "city": "Deba"
+  },
+  {
+    "city": "Paterna de Rivera"
+  },
+  {
+    "city": "Benejúzar"
+  },
+  {
+    "city": "Casariche"
+  },
+  {
+    "city": "San Pol de Mar"
+  },
+  {
+    "city": "Vilafant"
+  },
+  {
+    "city": "Chinchón"
+  },
+  {
+    "city": "Agramunt"
+  },
+  {
+    "city": "Abegondo"
+  },
+  {
+    "city": "Borriol"
+  },
+  {
+    "city": "San Ciprián de Viñas"
+  },
+  {
+    "city": "Alameda"
+  },
+  {
+    "city": "San Vicente de Alcántara"
+  },
+  {
+    "city": "Valencia de Alcántara"
+  },
+  {
+    "city": "Malpica"
+  },
+  {
+    "city": "Capellades"
+  },
+  {
+    "city": "Cigales"
+  },
+  {
+    "city": "Librilla"
+  },
+  {
+    "city": "Meaño"
+  },
+  {
+    "city": "Parres"
+  },
+  {
+    "city": "Talavera La Real"
+  },
+  {
+    "city": "Montefrío"
+  },
+  {
+    "city": "Mutriku"
+  },
+  {
+    "city": "Villanueva del Trabuco"
+  },
+  {
+    "city": "Altafulla"
+  },
+  {
+    "city": "Alburquerque"
+  },
+  {
+    "city": "Santa Cristina de Aro"
+  },
+  {
+    "city": "San Ildefonso"
+  },
+  {
+    "city": "Ayora"
+  },
+  {
+    "city": "Mollina"
+  },
+  {
+    "city": "Nava"
+  },
+  {
+    "city": "Valencia de Don Juan"
+  },
+  {
+    "city": "Simancas"
+  },
+  {
+    "city": "Entrambasaguas"
+  },
+  {
+    "city": "Peal de Becerro"
+  },
+  {
+    "city": "La Campana"
+  },
+  {
+    "city": "Sarriá de Ter"
+  },
+  {
+    "city": "Alcalá de los Gazules"
+  },
+  {
+    "city": "Bellpuig"
+  },
+  {
+    "city": "Mugardos"
+  },
+  {
+    "city": "Otero de Rey"
+  },
+  {
+    "city": "Camariñas"
+  },
+  {
+    "city": "Moral de Calatrava"
+  },
+  {
+    "city": "Cájar"
+  },
+  {
+    "city": "Almadén"
+  },
+  {
+    "city": "Quesada"
+  },
+  {
+    "city": "Gualchos"
+  },
+  {
+    "city": "Pedrera"
+  },
+  {
+    "city": "Las Navas del Marqués"
+  },
+  {
+    "city": "Noreña"
+  },
+  {
+    "city": "Alcover"
+  },
+  {
+    "city": "La Cañiza"
+  },
+  {
+    "city": "Iznalloz"
+  },
+  {
+    "city": "Alcudia de Crespins"
+  },
+  {
+    "city": "Esporlas"
+  },
+  {
+    "city": "Ribadumia"
+  },
+  {
+    "city": "Beas de Segura"
+  },
+  {
+    "city": "Ses Salines"
+  },
+  {
+    "city": "Oliva de la Frontera"
+  },
+  {
+    "city": "Sariegos"
+  },
+  {
+    "city": "La Puebla de Almoradiel"
+  },
+  {
+    "city": "Castro de Rey"
+  },
+  {
+    "city": "Valverde"
+  },
+  {
+    "city": "Marquina-Jemein"
+  },
+  {
+    "city": "Polop"
+  },
+  {
+    "city": "Los Montesinos"
+  },
+  {
+    "city": "Peñafiel"
+  },
+  {
+    "city": "Alcalá del Valle"
+  },
+  {
+    "city": "Candeleda"
+  },
+  {
+    "city": "Neda"
+  },
+  {
+    "city": "Ribadavia"
+  },
+  {
+    "city": "Cerceda"
+  },
+  {
+    "city": "Vedra"
+  },
+  {
+    "city": "Cacabelos"
+  },
+  {
+    "city": "Bescanó"
+  },
+  {
+    "city": "Salvatierra"
+  },
+  {
+    "city": "Borja"
+  },
+  {
+    "city": "Benamejí"
+  },
+  {
+    "city": "Carranque"
+  },
+  {
+    "city": "Gironella"
+  },
+  {
+    "city": "Isla de Arosa"
+  },
+  {
+    "city": "Cudillero"
+  },
+  {
+    "city": "Ferrerías"
+  },
+  {
+    "city": "Salas"
+  },
+  {
+    "city": "Castilblanco de los Arroyos"
+  },
+  {
+    "city": "Miengo"
+  },
+  {
+    "city": "Sollana"
+  },
+  {
+    "city": "Garachico"
+  },
+  {
+    "city": "Infantes"
+  },
+  {
+    "city": "Villafranca de Córdoba"
+  },
+  {
+    "city": "Campanario"
+  },
+  {
+    "city": "Pallaresos"
+  },
+  {
+    "city": "Villanueva del Río y Minas"
+  },
+  {
+    "city": "Lodosa"
+  },
+  {
+    "city": "Fregenal de la Sierra"
+  },
+  {
+    "city": "El Viso de San Juan"
+  },
+  {
+    "city": "Martorellas"
+  },
+  {
+    "city": "Cabeza del Buey"
+  },
+  {
+    "city": "Agost"
+  },
+  {
+    "city": "Buenavista del Norte"
+  },
+  {
+    "city": "Enguera"
+  },
+  {
+    "city": "Meis"
+  },
+  {
+    "city": "Cabrera de Mataró"
+  },
+  {
+    "city": "Los Silos"
+  },
+  {
+    "city": "Pozo Alcón"
+  },
+  {
+    "city": "Villanueva de Gállego"
+  },
+  {
+    "city": "El Coronil"
+  },
+  {
+    "city": "Campa"
+  },
+  {
+    "city": "Canyellas"
+  },
+  {
+    "city": "Finisterre"
+  },
+  {
+    "city": "Torrefarrera"
+  },
+  {
+    "city": "Fuente de Cantos"
+  },
+  {
+    "city": "Cazalla de la Sierra"
+  },
+  {
+    "city": "Porqueras"
+  },
+  {
+    "city": "Sotillo de la Adrada"
+  },
+  {
+    "city": "El Pino"
+  },
+  {
+    "city": "Cardona"
+  },
+  {
+    "city": "Madrigueras"
+  },
+  {
+    "city": "Ayelo de Malferit"
+  },
+  {
+    "city": "Arboleas"
+  },
+  {
+    "city": "Autol"
+  },
+  {
+    "city": "Bellreguart"
+  },
+  {
+    "city": "Doña Mencía"
+  },
+  {
+    "city": "Santaella"
+  },
+  {
+    "city": "Medina de Ríoseco"
+  },
+  {
+    "city": "Cortegana"
+  },
+  {
+    "city": "Malpartida de Plasencia"
+  },
+  {
+    "city": "Tazacorte"
+  },
+  {
+    "city": "Aznalcázar"
+  },
+  {
+    "city": "Bérriz"
+  },
+  {
+    "city": "La Luisiana"
+  },
+  {
+    "city": "Quintana de la Serena"
+  },
+  {
+    "city": "Catllar"
+  },
+  {
+    "city": "Fuentes de Ebro"
+  },
+  {
+    "city": "Collbató"
+  },
+  {
+    "city": "San Pedro de Vilamajor"
+  },
+  {
+    "city": "Casas Ibáñez"
+  },
+  {
+    "city": "Rois"
+  },
+  {
+    "city": "Fuente Obejuna"
+  },
+  {
+    "city": "Casar de Cáceres"
+  },
+  {
+    "city": "Benahadux"
+  },
+  {
+    "city": "Santovenia de Pisuerga"
+  },
+  {
+    "city": "Hornachuelos"
+  },
+  {
+    "city": "Villamanrique de la Condesa"
+  },
+  {
+    "city": "Montalbán de Córdoba"
+  },
+  {
+    "city": "Puebla Larga"
+  },
+  {
+    "city": "Benitachell"
+  },
+  {
+    "city": "Los Molinos"
+  },
+  {
+    "city": "Mondariz"
+  },
+  {
+    "city": "Navalvillar de Pela"
+  },
+  {
+    "city": "Cospeito"
+  },
+  {
+    "city": "Zas"
+  },
+  {
+    "city": "Fabero"
+  },
+  {
+    "city": "Fuente Vaqueros"
+  },
+  {
+    "city": "Piedrabuena"
+  },
+  {
+    "city": "Épila"
+  },
+  {
+    "city": "Valmojado"
+  },
+  {
+    "city": "Villalonga"
+  },
+  {
+    "city": "El Carpio"
+  },
+  {
+    "city": "Plencia"
+  },
+  {
+    "city": "Beas"
+  },
+  {
+    "city": "Ampuero"
+  },
+  {
+    "city": "Bárcena de Cicero"
+  },
+  {
+    "city": "Sigüenza"
+  },
+  {
+    "city": "Puigreig"
+  },
+  {
+    "city": "Hostalrich"
+  },
+  {
+    "city": "Formentera de Segura"
+  },
+  {
+    "city": "Castejón"
+  },
+  {
+    "city": "Ibarra"
+  },
+  {
+    "city": "Cadrete"
+  },
+  {
+    "city": "El Saucejo"
+  },
+  {
+    "city": "Santillana"
+  },
+  {
+    "city": "Cervo"
+  },
+  {
+    "city": "Sodupe"
+  },
+  {
+    "city": "Monesterio"
+  },
+  {
+    "city": "Boqueijón"
+  },
+  {
+    "city": "Chinchilla de Monte Aragón"
+  },
+  {
+    "city": "Yebes"
+  },
+  {
+    "city": "Frontera"
+  },
+  {
+    "city": "Sariñena"
+  },
+  {
+    "city": "Los Sauces"
+  },
+  {
+    "city": "El Tiemblo"
+  },
+  {
+    "city": "La Roda de Andalucía"
+  },
+  {
+    "city": "Papiol"
+  },
+  {
+    "city": "Valverde de Leganés"
+  },
+  {
+    "city": "San Clemente de Llobregat"
+  },
+  {
+    "city": "Albuixech"
+  },
+  {
+    "city": "Miravalles"
+  },
+  {
+    "city": "Boecillo"
+  },
+  {
+    "city": "Villanueva de Algaidas"
+  },
+  {
+    "city": "Moraña"
+  },
+  {
+    "city": "Orcoyen"
+  },
+  {
+    "city": "Bocairente"
+  },
+  {
+    "city": "Adamuz"
+  },
+  {
+    "city": "Iznájar"
+  },
+  {
+    "city": "Murchante"
+  },
+  {
+    "city": "Consell"
+  },
+  {
+    "city": "Niebla"
+  },
+  {
+    "city": "Beriáin"
+  },
+  {
+    "city": "Escoriaza"
+  },
+  {
+    "city": "Pechina"
+  },
+  {
+    "city": "Camponaraya"
+  },
+  {
+    "city": "San Vicente de la Barquera"
+  },
+  {
+    "city": "Santa Cruz de Mudela"
+  },
+  {
+    "city": "Arriate"
+  },
+  {
+    "city": "Selva"
+  },
+  {
+    "city": "Arroyo de San Serván"
+  },
+  {
+    "city": "Malpartida de Cáceres"
+  },
+  {
+    "city": "Pinseque"
+  },
+  {
+    "city": "Villamalea"
+  },
+  {
+    "city": "Dalías"
+  },
+  {
+    "city": "La Guardia de Jaén"
+  },
+  {
+    "city": "Curtis"
+  },
+  {
+    "city": "Castillo de Locubín"
+  },
+  {
+    "city": "Albalat dels Sorells"
+  },
+  {
+    "city": "Sineu"
+  },
+  {
+    "city": "Caniles"
+  },
+  {
+    "city": "La Lastrilla"
+  },
+  {
+    "city": "Talamanca de Jarama"
+  },
+  {
+    "city": "Olite"
+  },
+  {
+    "city": "Santa Amalia"
+  },
+  {
+    "city": "La Pobla de Mafumet"
+  },
+  {
+    "city": "Cómpeta"
+  },
+  {
+    "city": "Hinojos"
+  },
+  {
+    "city": "Hervás"
+  },
+  {
+    "city": "Cascante"
+  },
+  {
+    "city": "Yuncler"
+  },
+  {
+    "city": "Los Corrales"
+  },
+  {
+    "city": "Olivella"
+  },
+  {
+    "city": "Alosno"
+  },
+  {
+    "city": "San Gregorio"
+  },
+  {
+    "city": "Veigas"
+  },
+  {
+    "city": "Placencia"
+  },
+  {
+    "city": "Pradejón"
+  },
+  {
+    "city": "Carnota"
+  },
+  {
+    "city": "Bagur"
+  },
+  {
+    "city": "Rincón de Soto"
+  },
+  {
+    "city": "Sabiote"
+  },
+  {
+    "city": "Villargordo"
+  },
+  {
+    "city": "Espera"
+  },
+  {
+    "city": "Montemayor"
+  },
+  {
+    "city": "Jun"
+  },
+  {
+    "city": "La Lantejuela"
+  },
+  {
+    "city": "Pliego"
+  },
+  {
+    "city": "Luarca"
+  },
+  {
+    "city": "Mazaricos"
+  },
+  {
+    "city": "Balenyá"
+  },
+  {
+    "city": "Azagra"
+  },
+  {
+    "city": "Calanda"
+  },
+  {
+    "city": "Ojén"
+  },
+  {
+    "city": "Minas de Ríotinto"
+  },
+  {
+    "city": "Villasana de Mena"
+  },
+  {
+    "city": "Nieves"
+  },
+  {
+    "city": "Soto del Barco"
+  },
+  {
+    "city": "Quart d’Onyar"
+  },
+  {
+    "city": "Almogía"
+  },
+  {
+    "city": "Turre"
+  },
+  {
+    "city": "Cariño"
+  },
+  {
+    "city": "Cestona"
+  },
+  {
+    "city": "Breda"
+  },
+  {
+    "city": "San Bartolomé de la Torre"
+  },
+  {
+    "city": "El Franco"
+  },
+  {
+    "city": "Vera de Bidasoa"
+  },
+  {
+    "city": "La Robla"
+  },
+  {
+    "city": "Teba"
+  },
+  {
+    "city": "Morell"
+  },
+  {
+    "city": "Bonrepós y Mirambell"
+  },
+  {
+    "city": "Ribaforada"
+  },
+  {
+    "city": "Espluga de Francolí"
+  },
+  {
+    "city": "La Alameda de la Sagra"
+  },
+  {
+    "city": "Magán"
+  },
+  {
+    "city": "Gilena"
+  },
+  {
+    "city": "Tabernas"
+  },
+  {
+    "city": "Santa Bárbara"
+  },
+  {
+    "city": "Alhama de Almería"
+  },
+  {
+    "city": "Valdepeñas de Jaén"
+  },
+  {
+    "city": "Olvega"
+  },
+  {
+    "city": "Cangas de Onís"
+  },
+  {
+    "city": "Odena"
+  },
+  {
+    "city": "Yurreta"
+  },
+  {
+    "city": "Friol"
+  },
+  {
+    "city": "Calaf"
+  },
+  {
+    "city": "Biar"
+  },
+  {
+    "city": "Lopera"
+  },
+  {
+    "city": "Olmedo"
+  },
+  {
+    "city": "Llosa de Ranes"
+  },
+  {
+    "city": "Peñaflor"
+  },
+  {
+    "city": "Bisbal del Panadés"
+  },
+  {
+    "city": "La Calzada de Calatrava"
+  },
+  {
+    "city": "Casabermeja"
+  },
+  {
+    "city": "Barro"
+  },
+  {
+    "city": "Villa de Don Fadrique"
+  },
+  {
+    "city": "Moclín"
+  },
+  {
+    "city": "Jove"
+  },
+  {
+    "city": "Cuevas de San Marcos"
+  },
+  {
+    "city": "Altura"
+  },
+  {
+    "city": "Pedrola"
+  },
+  {
+    "city": "Godelleta"
+  },
+  {
+    "city": "Arjonilla"
+  },
+  {
+    "city": "Navahermosa"
+  },
+  {
+    "city": "Faura"
+  },
+  {
+    "city": "Santa Susana"
+  },
+  {
+    "city": "Tíjola"
+  },
+  {
+    "city": "Zalamea de la Serena"
+  },
+  {
+    "city": "Seva"
+  },
+  {
+    "city": "San Hipólito de Voltregá"
+  },
+  {
+    "city": "Mondoñedo"
+  },
+  {
+    "city": "Hornachos"
+  },
+  {
+    "city": "Villar del Arzobispo"
+  },
+  {
+    "city": "Rus"
+  },
+  {
+    "city": "Lanjarón"
+  },
+  {
+    "city": "Mendavia"
+  },
+  {
+    "city": "Elche de la Sierra"
+  },
+  {
+    "city": "Los Molares"
+  },
+  {
+    "city": "Láchar"
+  },
+  {
+    "city": "Las Ventas de Retamosa"
+  },
+  {
+    "city": "Lemorieta"
+  },
+  {
+    "city": "Juneda"
+  },
+  {
+    "city": "Viella"
+  },
+  {
+    "city": "Herrera del Duque"
+  },
+  {
+    "city": "Tamarite de Litera"
+  },
+  {
+    "city": "Barcarrota"
+  },
+  {
+    "city": "Albelda de Iregua"
+  },
+  {
+    "city": "Villafranca de Bonany"
+  },
+  {
+    "city": "Porzuna"
+  },
+  {
+    "city": "Paterna del Campo"
+  },
+  {
+    "city": "Milagro"
+  },
+  {
+    "city": "San Cipriano de Vallalta"
+  },
+  {
+    "city": "Alcoletge"
+  },
+  {
+    "city": "Munera"
+  },
+  {
+    "city": "Villaconejos"
+  },
+  {
+    "city": "Corgo"
+  },
+  {
+    "city": "Cijuela"
+  },
+  {
+    "city": "La Baña"
+  },
+  {
+    "city": "Vinalesa"
+  },
+  {
+    "city": "Flix"
+  },
+  {
+    "city": "Colmenar"
+  },
+  {
+    "city": "Talarrubias"
+  },
+  {
+    "city": "Gilet"
+  },
+  {
+    "city": "Zarza de Alange"
+  },
+  {
+    "city": "Artesa de Segre"
+  },
+  {
+    "city": "Elizondo"
+  },
+  {
+    "city": "Fonsagrada"
+  },
+  {
+    "city": "Sancellas"
+  },
+  {
+    "city": "El Rubio"
+  },
+  {
+    "city": "Villalba del Alcor"
+  },
+  {
+    "city": "Cantoria"
+  },
+  {
+    "city": "Graus"
+  },
+  {
+    "city": "Carracedelo"
+  },
+  {
+    "city": "Villanueva del Fresno"
+  },
+  {
+    "city": "Villanueva del Rosario"
+  },
+  {
+    "city": "Almenar"
+  },
+  {
+    "city": "Cariñena"
+  },
+  {
+    "city": "Santa Oliva"
+  },
+  {
+    "city": "Alcolea del Río"
+  },
+  {
+    "city": "Castropol"
+  },
+  {
+    "city": "Viloví de Oñar"
+  },
+  {
+    "city": "Catoira"
+  },
+  {
+    "city": "Albalat de la Ribera"
+  },
+  {
+    "city": "Palas de Rey"
+  },
+  {
+    "city": "Cañada Rosal"
+  },
+  {
+    "city": "La Junquera"
+  },
+  {
+    "city": "Sierra de Yeguas"
+  },
+  {
+    "city": "Antas"
+  },
+  {
+    "city": "Pedrajas de San Esteban"
+  },
+  {
+    "city": "Forcarey"
+  },
+  {
+    "city": "Santa Cruz del Retamar"
+  },
+  {
+    "city": "Alcorisa"
+  },
+  {
+    "city": "Humilladero"
+  },
+  {
+    "city": "Simat de Valldigna"
+  },
+  {
+    "city": "Coaña"
+  },
+  {
+    "city": "Benijófar"
+  },
+  {
+    "city": "Villanueva de la Concepción"
+  },
+  {
+    "city": "Alfara del Patriarca"
+  },
+  {
+    "city": "La Ampolla"
+  },
+  {
+    "city": "Escalona"
+  },
+  {
+    "city": "Zamudio"
+  },
+  {
+    "city": "Jamilena"
+  },
+  {
+    "city": "San Mateo de Gállego"
+  },
+  {
+    "city": "Lousame"
+  },
+  {
+    "city": "San Martín Sarroca"
+  },
+  {
+    "city": "Lucena del Puerto"
+  },
+  {
+    "city": "Tordoya"
+  },
+  {
+    "city": "Mojados"
+  },
+  {
+    "city": "Ribera del Fresno"
+  },
+  {
+    "city": "Belalcázar"
+  },
+  {
+    "city": "Molina de Aragón"
+  },
+  {
+    "city": "San Juan de Moró"
+  },
+  {
+    "city": "Campdevánol"
+  },
+  {
+    "city": "San Juan de las Abadesas"
+  },
+  {
+    "city": "Cebolla"
+  },
+  {
+    "city": "Fuente el Fresno"
+  },
+  {
+    "city": "Colunga"
+  },
+  {
+    "city": "Albaida del Aljarafe"
+  },
+  {
+    "city": "Villaviciosa de Córdoba"
+  },
+  {
+    "city": "Balsareny"
+  },
+  {
+    "city": "Serra"
+  },
+  {
+    "city": "Cortes"
+  },
+  {
+    "city": "Oza de los Ríos"
+  },
+  {
+    "city": "Cebreros"
+  },
+  {
+    "city": "Fuenmayor"
+  },
+  {
+    "city": "Sant Juliá de Vilatorta"
+  },
+  {
+    "city": "Algorfa"
+  },
+  {
+    "city": "La Pola de Gordón"
+  },
+  {
+    "city": "Moraleda de Zafayona"
+  },
+  {
+    "city": "Villanueva de Río Segura"
+  },
+  {
+    "city": "Mora la Nueva"
+  },
+  {
+    "city": "Sant Pau d’Ordal"
+  },
+  {
+    "city": "Santa María del Páramo"
+  },
+  {
+    "city": "Carrión de Calatrava"
+  },
+  {
+    "city": "Vallada"
+  },
+  {
+    "city": "Gandesa"
+  },
+  {
+    "city": "Puebla de Guzmán"
+  },
+  {
+    "city": "Navacerrada"
+  },
+  {
+    "city": "Cistierna"
+  },
+  {
+    "city": "Periana"
+  },
+  {
+    "city": "Badolatosa"
+  },
+  {
+    "city": "Busot"
+  },
+  {
+    "city": "Coles"
+  },
+  {
+    "city": "Burguillos del Cerro"
+  },
+  {
+    "city": "Cortes de la Frontera"
+  },
+  {
+    "city": "Frigiliana"
+  },
+  {
+    "city": "Castellar de la Frontera"
+  },
+  {
+    "city": "Zalamea la Real"
+  },
+  {
+    "city": "Aroche"
+  },
+  {
+    "city": "Puentecesures"
+  },
+  {
+    "city": "Cadalso de los Vidrios"
+  },
+  {
+    "city": "Benamocarra"
+  },
+  {
+    "city": "Zaldívar"
+  },
+  {
+    "city": "Sant Joan les Fonts"
+  },
+  {
+    "city": "Fuensanta de Martos"
+  },
+  {
+    "city": "Villanueva de la Reina"
+  },
+  {
+    "city": "Fuente de San Luis"
+  },
+  {
+    "city": "Alguaire"
+  },
+  {
+    "city": "Ágreda"
+  },
+  {
+    "city": "Estartit"
+  },
+  {
+    "city": "Cizurquil"
+  },
+  {
+    "city": "Caldas de Estrach"
+  },
+  {
+    "city": "Trazo"
+  },
+  {
+    "city": "Toreno"
+  },
+  {
+    "city": "Utrillas"
+  },
+  {
+    "city": "Mallén"
+  },
+  {
+    "city": "Navarrés"
+  },
+  {
+    "city": "Lage"
+  },
+  {
+    "city": "Vallgorguina"
+  },
+  {
+    "city": "Montuiri"
+  },
+  {
+    "city": "Els Hostalets"
+  },
+  {
+    "city": "La Puebla de los Infantes"
+  },
+  {
+    "city": "Begonte"
+  },
+  {
+    "city": "Cabanes"
+  },
+  {
+    "city": "Luque"
+  },
+  {
+    "city": "Villarejo de Órbigo"
+  },
+  {
+    "city": "Morales del Vino"
+  },
+  {
+    "city": "Torralba de Calatrava"
+  },
+  {
+    "city": "Leiza"
+  },
+  {
+    "city": "Pastoriza"
+  },
+  {
+    "city": "Saldaña"
+  },
+  {
+    "city": "Montroy"
+  },
+  {
+    "city": "Zurgena"
+  },
+  {
+    "city": "San Esteban de Gormaz"
+  },
+  {
+    "city": "Barreiros"
+  },
+  {
+    "city": "Cañete de las Torres"
+  },
+  {
+    "city": "Bélmez"
+  },
+  {
+    "city": "Torrejoncillo"
+  },
+  {
+    "city": "Portas"
+  },
+  {
+    "city": "Los Gallardos"
+  },
+  {
+    "city": "Alonsótegui"
+  },
+  {
+    "city": "Vélez de Benaudalla"
+  },
+  {
+    "city": "Puente la Reina"
+  },
+  {
+    "city": "Villablanca"
+  },
+  {
+    "city": "Pobla de Montornés"
+  },
+  {
+    "city": "Villafranca"
+  },
+  {
+    "city": "Vallehermosa"
+  },
+  {
+    "city": "Ramales de la Victoria"
+  },
+  {
+    "city": "Pegalajar"
+  },
+  {
+    "city": "Yunquera"
+  },
+  {
+    "city": "Ricla"
+  },
+  {
+    "city": "San Esteban de Palautordera"
+  },
+  {
+    "city": "Marcilla"
+  },
+  {
+    "city": "Calatorao"
+  },
+  {
+    "city": "Güéjar-Sierra"
+  },
+  {
+    "city": "Vall d’Alba"
+  },
+  {
+    "city": "Villafranca del Bierzo"
+  },
+  {
+    "city": "Tanque"
+  },
+  {
+    "city": "Puente Viesgo"
+  },
+  {
+    "city": "Maceda"
+  },
+  {
+    "city": "Castilleja de Guzmán"
+  },
+  {
+    "city": "Castellvell"
+  },
+  {
+    "city": "Ibros"
+  },
+  {
+    "city": "Perelló"
+  },
+  {
+    "city": "Villanueva de los Castillejos"
+  },
+  {
+    "city": "Viana del Bollo"
+  },
+  {
+    "city": "Pedro Abad"
+  },
+  {
+    "city": "Pedralba"
+  },
+  {
+    "city": "Illueca"
+  },
+  {
+    "city": "Jarandilla de la Vera"
+  },
+  {
+    "city": "Catadau"
+  },
+  {
+    "city": "Caparroso"
+  },
+  {
+    "city": "Torrenueva"
+  },
+  {
+    "city": "Getaria"
+  },
+  {
+    "city": "Pozo-Cañada"
+  },
+  {
+    "city": "San Saturnino"
+  },
+  {
+    "city": "Casinos"
+  },
+  {
+    "city": "Genovés"
+  },
+  {
+    "city": "Golmayo"
+  },
+  {
+    "city": "Aoiz"
+  },
+  {
+    "city": "Zahinos"
+  },
+  {
+    "city": "Molvízar"
+  },
+  {
+    "city": "Villanubla"
+  },
+  {
+    "city": "Calañas"
+  },
+  {
+    "city": "Alfarrás"
+  },
+  {
+    "city": "Lobón"
+  },
+  {
+    "city": "Dodro"
+  },
+  {
+    "city": "Lesaca"
+  },
+  {
+    "city": "Piles"
+  },
+  {
+    "city": "Villarta de San Juan"
+  },
+  {
+    "city": "Guarromán"
+  },
+  {
+    "city": "La Cabrera"
+  },
+  {
+    "city": "Tielmes"
+  },
+  {
+    "city": "Falset"
+  },
+  {
+    "city": "Ríogordo"
+  },
+  {
+    "city": "El Bonillo"
+  },
+  {
+    "city": "Liñola"
+  },
+  {
+    "city": "Losar de la Vera"
+  },
+  {
+    "city": "Taboada"
+  },
+  {
+    "city": "El Gurb"
+  },
+  {
+    "city": "Maside"
+  },
+  {
+    "city": "Monda"
+  },
+  {
+    "city": "Cadaqués"
+  },
+  {
+    "city": "Los Santos de la Humosa"
+  },
+  {
+    "city": "Miramar"
+  },
+  {
+    "city": "Cambil"
+  },
+  {
+    "city": "Basigo de Baguio"
+  },
+  {
+    "city": "Puebla de Sancho Pérez"
+  },
+  {
+    "city": "Santa Coloma de Queralt"
+  },
+  {
+    "city": "Poblete"
+  },
+  {
+    "city": "Torrenueva"
+  },
+  {
+    "city": "Martín de la Jara"
+  },
+  {
+    "city": "Fuente de Piedra"
+  },
+  {
+    "city": "Llombay"
+  },
+  {
+    "city": "Campanet"
+  },
+  {
+    "city": "Pons"
+  },
+  {
+    "city": "Orellana la Vieja"
+  },
+  {
+    "city": "Güevéjar"
+  },
+  {
+    "city": "Guntín"
+  },
+  {
+    "city": "Oropesa"
+  },
+  {
+    "city": "San Jaime dels Domenys"
+  },
+  {
+    "city": "Dueñas"
+  },
+  {
+    "city": "Salar"
+  },
+  {
+    "city": "Anna"
+  },
+  {
+    "city": "Yeste"
+  },
+  {
+    "city": "Guadalcanal"
+  },
+  {
+    "city": "Pruna"
+  },
+  {
+    "city": "Prats de Llusanés"
+  },
+  {
+    "city": "Solana de los Barros"
+  },
+  {
+    "city": "Deifontes"
+  },
+  {
+    "city": "Menasalbas"
+  },
+  {
+    "city": "Castroverde"
+  },
+  {
+    "city": "Marinaleda"
+  },
+  {
+    "city": "Granja de Rocamora"
+  },
+  {
+    "city": "Cartelle"
+  },
+  {
+    "city": "Noja"
+  },
+  {
+    "city": "Láncara"
+  },
+  {
+    "city": "Arbo"
+  },
+  {
+    "city": "Baños de la Encina"
+  },
+  {
+    "city": "Cella"
+  },
+  {
+    "city": "Aytona"
+  },
+  {
+    "city": "Gallur"
+  },
+  {
+    "city": "Chozas de Abajo"
+  },
+  {
+    "city": "Lillo"
+  },
+  {
+    "city": "Vallromanas"
+  },
+  {
+    "city": "Masalfasar"
+  },
+  {
+    "city": "Alcuéscar"
+  },
+  {
+    "city": "Puntallana"
+  },
+  {
+    "city": "Castelltersol"
+  },
+  {
+    "city": "La Gineta"
+  },
+  {
+    "city": "Carrión de los Céspedes"
+  },
+  {
+    "city": "Zújar"
+  },
+  {
+    "city": "La Adrada"
+  },
+  {
+    "city": "Lerma"
+  },
+  {
+    "city": "Real de Gandía"
+  },
+  {
+    "city": "Villasequilla de Yepes"
+  },
+  {
+    "city": "Monterrey"
+  },
+  {
+    "city": "Ugíjar"
+  },
+  {
+    "city": "El Viso"
+  },
+  {
+    "city": "Puebla del Duc"
+  },
+  {
+    "city": "Casarabonela"
+  },
+  {
+    "city": "Ayguafreda"
+  },
+  {
+    "city": "Torreblascopedro"
+  },
+  {
+    "city": "Tijarafe"
+  },
+  {
+    "city": "Ardales"
+  },
+  {
+    "city": "Favareta"
+  },
+  {
+    "city": "Valle de Abdalagís"
+  },
+  {
+    "city": "Carcastillo"
+  },
+  {
+    "city": "Echarri-Aranaz"
+  },
+  {
+    "city": "Mesia"
+  },
+  {
+    "city": "Madroñera"
+  },
+  {
+    "city": "La Romana"
+  },
+  {
+    "city": "Huesa"
+  },
+  {
+    "city": "Besalú"
+  },
+  {
+    "city": "Monreal del Campo"
+  },
+  {
+    "city": "El Burgo de Ebro"
+  },
+  {
+    "city": "Ablitas"
+  },
+  {
+    "city": "Fustiñana"
+  },
+  {
+    "city": "Baralla"
+  },
+  {
+    "city": "Almoines"
+  },
+  {
+    "city": "Sahagún"
+  },
+  {
+    "city": "Fuente-Álamo"
+  },
+  {
+    "city": "Chella"
+  },
+  {
+    "city": "San Pedro de Torelló"
+  },
+  {
+    "city": "Albiñana"
+  },
+  {
+    "city": "Algarinejo"
+  },
+  {
+    "city": "Cesuras"
+  },
+  {
+    "city": "Alberite"
+  },
+  {
+    "city": "Funes"
+  },
+  {
+    "city": "Benavides"
+  },
+  {
+    "city": "Manuel"
+  },
+  {
+    "city": "Sorbas"
+  },
+  {
+    "city": "Valderrobres"
+  },
+  {
+    "city": "El Provencio"
+  },
+  {
+    "city": "Valtierra"
+  },
+  {
+    "city": "San Lorenzo de Hortóns"
+  },
+  {
+    "city": "Los Navalmorales"
+  },
+  {
+    "city": "San Lorenzo Savall"
+  },
+  {
+    "city": "Morella"
+  },
+  {
+    "city": "Fontanar"
+  },
+  {
+    "city": "Vilallonga del Campo"
+  },
+  {
+    "city": "Espiel"
+  },
+  {
+    "city": "Cornellá de Terri"
+  },
+  {
+    "city": "Torrellas de Foix"
+  },
+  {
+    "city": "Lama"
+  },
+  {
+    "city": "Lloréns del Panadés"
+  },
+  {
+    "city": "Ayegui"
+  },
+  {
+    "city": "Pals"
+  },
+  {
+    "city": "Dos Torres"
+  },
+  {
+    "city": "Rodeiro"
+  },
+  {
+    "city": "Pina de Ebro"
+  },
+  {
+    "city": "Agullent"
+  },
+  {
+    "city": "San Pedro de Riudevitlles"
+  },
+  {
+    "city": "Almudébar"
+  },
+  {
+    "city": "Portillo"
+  },
+  {
+    "city": "Carcabuey"
+  },
+  {
+    "city": "Almedinilla"
+  },
+  {
+    "city": "Torres de Segre"
+  },
+  {
+    "city": "Grijota"
+  },
+  {
+    "city": "La Garrovilla"
+  },
+  {
+    "city": "Rafelguaraf"
+  },
+  {
+    "city": "Toén"
+  },
+  {
+    "city": "El Palmar de Troya"
+  },
+  {
+    "city": "Alfajarín"
+  },
+  {
+    "city": "Falces"
+  },
+  {
+    "city": "Berlanga"
+  },
+  {
+    "city": "El Barco de Ávila"
+  },
+  {
+    "city": "Balazote"
+  },
+  {
+    "city": "El Cerro de Andévalo"
+  },
+  {
+    "city": "Monterrubio de la Serena"
+  },
+  {
+    "city": "Abadín"
+  },
+  {
+    "city": "San Quintín de Mediona"
+  },
+  {
+    "city": "Las Mesas"
+  },
+  {
+    "city": "Purullena"
+  },
+  {
+    "city": "Golada"
+  },
+  {
+    "city": "Frades"
+  },
+  {
+    "city": "Murguía"
+  },
+  {
+    "city": "Castellón de Rugat"
+  },
+  {
+    "city": "Llubí"
+  },
+  {
+    "city": "Camprodón"
+  },
+  {
+    "city": "Idiazábal"
+  },
+  {
+    "city": "Benisanó"
+  },
+  {
+    "city": "La Victoria"
+  },
+  {
+    "city": "Avinyó"
+  },
+  {
+    "city": "Arroyo del Ojanco"
+  },
+  {
+    "city": "Arguedas"
+  },
+  {
+    "city": "Escacena del Campo"
+  },
+  {
+    "city": "Guaro"
+  },
+  {
+    "city": "Alcaucín"
+  },
+  {
+    "city": "Mequinenza"
+  },
+  {
+    "city": "Santa Eugenia de Berga"
+  },
+  {
+    "city": "Cervera de Pisuerga"
+  },
+  {
+    "city": "Medellín"
+  },
+  {
+    "city": "Benimodo"
+  },
+  {
+    "city": "Folgarolas"
+  },
+  {
+    "city": "Ossa de Montiel"
+  },
+  {
+    "city": "Alpera"
+  },
+  {
+    "city": "Jabugo"
+  },
+  {
+    "city": "Bellvís"
+  },
+  {
+    "city": "Benamaurel"
+  },
+  {
+    "city": "Sober"
+  },
+  {
+    "city": "Ajofrín"
+  },
+  {
+    "city": "Torremegía"
+  },
+  {
+    "city": "Pont de Suert"
+  },
+  {
+    "city": "Viso del Marqués"
+  },
+  {
+    "city": "Encinas Reales"
+  },
+  {
+    "city": "Valverde del Fresno"
+  },
+  {
+    "city": "Irurzun"
+  },
+  {
+    "city": "María de la Salud"
+  },
+  {
+    "city": "Oria"
+  },
+  {
+    "city": "Puebla de Don Fadrique"
+  },
+  {
+    "city": "Bellvey"
+  },
+  {
+    "city": "Albatarrech"
+  },
+  {
+    "city": "La Puerta de Segura"
+  },
+  {
+    "city": "Orba"
+  },
+  {
+    "city": "Carrizo de la Ribera"
+  },
+  {
+    "city": "Chucena"
+  },
+  {
+    "city": "Boborás"
+  },
+  {
+    "city": "Aviá"
+  },
+  {
+    "city": "Siles"
+  },
+  {
+    "city": "Higuera la Real"
+  },
+  {
+    "city": "Benifairó de Les Valls"
+  },
+  {
+    "city": "La Guardia"
+  },
+  {
+    "city": "Villarrasa"
+  },
+  {
+    "city": "La Granada"
+  },
+  {
+    "city": "Riudarenas"
+  },
+  {
+    "city": "Puntagorda"
+  },
+  {
+    "city": "Cuatretonda"
+  },
+  {
+    "city": "Minglanilla"
+  },
+  {
+    "city": "Jeresa"
+  },
+  {
+    "city": "Villafranca del Cid"
+  },
+  {
+    "city": "Buñuel"
+  },
+  {
+    "city": "La Pobla de Claramunt"
+  },
+  {
+    "city": "Benasque"
+  },
+  {
+    "city": "Torregrosa"
+  },
+  {
+    "city": "Valdefresno"
+  },
+  {
+    "city": "Palau de Anglesola"
+  },
+  {
+    "city": "La Coronada"
+  },
+  {
+    "city": "Beniarbeig"
+  },
+  {
+    "city": "Puente de Génave"
+  },
+  {
+    "city": "San Quírico de Besora"
+  },
+  {
+    "city": "Sort"
+  },
+  {
+    "city": "Tapia de Casariego"
+  },
+  {
+    "city": "San Juan"
+  },
+  {
+    "city": "Penagos"
+  },
+  {
+    "city": "La Pueblanueva"
+  },
+  {
+    "city": "Bagá"
+  },
+  {
+    "city": "Lorenzana"
+  },
+  {
+    "city": "Carballedo"
+  },
+  {
+    "city": "El Bosque"
+  },
+  {
+    "city": "Tolox"
+  },
+  {
+    "city": "Cabezuela del Valle"
+  },
+  {
+    "city": "Santo Tomé"
+  },
+  {
+    "city": "El Hoyo de Pinares"
+  },
+  {
+    "city": "Arbeca"
+  },
+  {
+    "city": "Larraga"
+  },
+  {
+    "city": "Zafarraya"
+  },
+  {
+    "city": "Manzanilla"
+  },
+  {
+    "city": "Torre del Bierzo"
+  },
+  {
+    "city": "El Bruch"
+  },
+  {
+    "city": "Montejicar"
+  },
+  {
+    "city": "Arnuero"
+  },
+  {
+    "city": "Villar del Rey"
+  },
+  {
+    "city": "Anzuola"
+  },
+  {
+    "city": "Santovenia de Valdoncina"
+  },
+  {
+    "city": "Luzmela"
+  },
+  {
+    "city": "Dílar"
+  },
+  {
+    "city": "San Pedro Pescador"
+  },
+  {
+    "city": "Ullastrell"
+  },
+  {
+    "city": "Cea"
+  },
+  {
+    "city": "Cenicero"
+  },
+  {
+    "city": "Anoeta"
+  },
+  {
+    "city": "Fitero"
+  },
+  {
+    "city": "Yátova"
+  },
+  {
+    "city": "Riudellots de la Selva"
+  },
+  {
+    "city": "Piedralaves"
+  },
+  {
+    "city": "Valderrubio"
+  },
+  {
+    "city": "Viana de Cega"
+  },
+  {
+    "city": "Villanueva de la Vera"
+  },
+  {
+    "city": "Alozaina"
+  },
+  {
+    "city": "La Codosera"
+  },
+  {
+    "city": "San Vicente de Torelló"
+  },
+  {
+    "city": "Borjas del Campo"
+  },
+  {
+    "city": "San Leonardo de Yagüe"
+  },
+  {
+    "city": "Los Navalucillos"
+  },
+  {
+    "city": "Cadreita"
+  },
+  {
+    "city": "Ezcaray"
+  },
+  {
+    "city": "Puigpuñent"
+  },
+  {
+    "city": "Vega de Espinareda"
+  },
+  {
+    "city": "Aldeanueva de la Vera"
+  },
+  {
+    "city": "Montealegre del Castillo"
+  },
+  {
+    "city": "Cenicientos"
+  },
+  {
+    "city": "Larrabezúa"
+  },
+  {
+    "city": "Aguadulce"
+  },
+  {
+    "city": "La Albuera"
+  },
+  {
+    "city": "Carrión de los Condes"
+  },
+  {
+    "city": "Cuadros"
+  },
+  {
+    "city": "Serón"
+  },
+  {
+    "city": "Campos del Río"
+  },
+  {
+    "city": "Fuente la Higuera"
+  },
+  {
+    "city": "Navaconcejo"
+  },
+  {
+    "city": "El Campillo"
+  },
+  {
+    "city": "Santa Olalla del Cala"
+  },
+  {
+    "city": "Villanueva de Mesía"
+  },
+  {
+    "city": "Castril"
+  },
+  {
+    "city": "Navaluenga"
+  },
+  {
+    "city": "Jabalquinto"
+  },
+  {
+    "city": "Beniparrell"
+  },
+  {
+    "city": "Puebla de Trives"
+  },
+  {
+    "city": "Grazalema"
+  },
+  {
+    "city": "Valldemosa"
+  },
+  {
+    "city": "El Pedroso"
+  },
+  {
+    "city": "Maella"
+  },
+  {
+    "city": "Obejo"
+  },
+  {
+    "city": "Cogollos Vega"
+  },
+  {
+    "city": "El Vellón"
+  },
+  {
+    "city": "Garrovillas"
+  },
+  {
+    "city": "Jacarilla"
+  },
+  {
+    "city": "Sierra de Fuentes"
+  },
+  {
+    "city": "Bareyo"
+  },
+  {
+    "city": "Crecente"
+  },
+  {
+    "city": "Valdeganga"
+  },
+  {
+    "city": "Nogueira de Ramuin"
+  },
+  {
+    "city": "Salas de los Infantes"
+  },
+  {
+    "city": "Fiñana"
+  },
+  {
+    "city": "Viñuela"
+  },
+  {
+    "city": "Granja de Torrehermosa"
+  },
+  {
+    "city": "Mendaro"
+  },
+  {
+    "city": "Ontur"
+  },
+  {
+    "city": "Nava del Rey"
+  },
+  {
+    "city": "Albalate del Arzobispo"
+  },
+  {
+    "city": "Logrosán"
+  },
+  {
+    "city": "Benferri"
+  },
+  {
+    "city": "Daroca"
+  },
+  {
+    "city": "Cálig"
+  },
+  {
+    "city": "Valencia del Ventoso"
+  },
+  {
+    "city": "Boimorto"
+  },
+  {
+    "city": "Artana"
+  },
+  {
+    "city": "Navalcán"
+  },
+  {
+    "city": "Fuensaldaña"
+  },
+  {
+    "city": "San Mateo"
+  },
+  {
+    "city": "La Sellera de Ter"
+  },
+  {
+    "city": "Quinto"
+  },
+  {
+    "city": "Almargen"
+  },
+  {
+    "city": "Serós"
+  },
+  {
+    "city": "Monturque"
+  },
+  {
+    "city": "Las Arenas"
+  },
+  {
+    "city": "Castellví de Rosanés"
+  },
+  {
+    "city": "Noalejo"
+  },
+  {
+    "city": "Limpias"
+  },
+  {
+    "city": "Barlovento"
+  },
+  {
+    "city": "Higuera de Vargas"
+  },
+  {
+    "city": "Herrera de Pisuerga"
+  },
+  {
+    "city": "La Merca"
+  },
+  {
+    "city": "Monfero"
+  },
+  {
+    "city": "Vallfogona de Balaguer"
+  },
+  {
+    "city": "Batea"
+  },
+  {
+    "city": "Barraco"
+  },
+  {
+    "city": "Paredes de Nava"
+  },
+  {
+    "city": "Muros de Nalón"
+  },
+  {
+    "city": "Tejeda"
+  },
+  {
+    "city": "Huétor Santillán"
+  },
+  {
+    "city": "La Iruela"
+  },
+  {
+    "city": "Vélez Blanco"
+  },
+  {
+    "city": "Selaya"
+  },
+  {
+    "city": "Guadahortuna"
+  },
+  {
+    "city": "Belmonte"
+  },
+  {
+    "city": "Castellar de Santiago"
+  },
+  {
+    "city": "Siruela"
+  },
+  {
+    "city": "Olza"
+  },
+  {
+    "city": "Santa Marina del Rey"
+  },
+  {
+    "city": "Villagonzalo-Pedernales"
+  },
+  {
+    "city": "Alange"
+  },
+  {
+    "city": "Las Presas"
+  },
+  {
+    "city": "Coirós"
+  },
+  {
+    "city": "Irura"
+  },
+  {
+    "city": "Villamarín"
+  },
+  {
+    "city": "Segura de León"
+  },
+  {
+    "city": "Mundaca"
+  },
+  {
+    "city": "Cortes de Baza"
+  },
+  {
+    "city": "Oliana"
+  },
+  {
+    "city": "Olesa de Bonesvalls"
+  },
+  {
+    "city": "Puebla de Obando"
+  },
+  {
+    "city": "Ablaña de Arriba"
+  },
+  {
+    "city": "Aranga"
+  },
+  {
+    "city": "Fuentealbilla"
+  },
+  {
+    "city": "Villafamés"
+  },
+  {
+    "city": "Olocau"
+  },
+  {
+    "city": "Guadalupe"
+  },
+  {
+    "city": "Cárcer"
+  },
+  {
+    "city": "Villaturiel"
+  },
+  {
+    "city": "Almáchar"
+  },
+  {
+    "city": "El Carpio de Tajo"
+  },
+  {
+    "city": "Boñar"
+  },
+  {
+    "city": "Canena"
+  },
+  {
+    "city": "Toral de los Vados"
+  },
+  {
+    "city": "Almoharín"
+  },
+  {
+    "city": "Fuenlabrada de los Montes"
+  },
+  {
+    "city": "Villaralbo"
+  },
+  {
+    "city": "La Peroja"
+  },
+  {
+    "city": "San Justo de la Vega"
+  },
+  {
+    "city": "Cuevas de Vinromá"
+  },
+  {
+    "city": "Brozas"
+  },
+  {
+    "city": "Segura de la Sierra"
+  },
+  {
+    "city": "Piedrahita"
+  },
+  {
+    "city": "Villardevós"
+  },
+  {
+    "city": "Arciniega"
+  },
+  {
+    "city": "Zarza de Granadilla"
+  },
+  {
+    "city": "Barrax"
+  },
+  {
+    "city": "Zaidín"
+  },
+  {
+    "city": "Burgo"
+  },
+  {
+    "city": "Orcera"
+  },
+  {
+    "city": "Híjar"
+  },
+  {
+    "city": "Riola"
+  },
+  {
+    "city": "Chillón"
+  },
+  {
+    "city": "Villahermosa"
+  },
+  {
+    "city": "Argoños"
+  },
+  {
+    "city": "Almonaster la Real"
+  },
+  {
+    "city": "Colmenar del Arroyo"
+  },
+  {
+    "city": "Guadamur"
+  },
+  {
+    "city": "Alforja"
+  },
+  {
+    "city": "Germade"
+  },
+  {
+    "city": "Cabra del Santo Cristo"
+  },
+  {
+    "city": "Belorado"
+  },
+  {
+    "city": "Socovos"
+  },
+  {
+    "city": "Aliseda"
+  },
+  {
+    "city": "Hermigua"
+  },
+  {
+    "city": "Vallmoll"
+  },
+  {
+    "city": "Cubillos del Sil"
+  },
+  {
+    "city": "Beniarjó"
+  },
+  {
+    "city": "Ateca"
+  },
+  {
+    "city": "Sosés"
+  },
+  {
+    "city": "Ribas de Fresser"
+  },
+  {
+    "city": "Almayate Bajo"
+  },
+  {
+    "city": "Camuñas"
+  },
+  {
+    "city": "Fuencaliente de la Palma"
+  },
+  {
+    "city": "Campillo de Arenas"
+  },
+  {
+    "city": "Usagre"
+  },
+  {
+    "city": "Cumbres Mayores"
+  },
+  {
+    "city": "Meira"
+  },
+  {
+    "city": "Lerín"
+  },
+  {
+    "city": "Cuevas del Campo"
+  },
+  {
+    "city": "Mansilla de las Mulas"
+  },
+  {
+    "city": "El Toboso"
+  },
+  {
+    "city": "Paradela"
+  },
+  {
+    "city": "Grañén"
+  },
+  {
+    "city": "Avión"
+  },
+  {
+    "city": "Villalobón"
+  },
+  {
+    "city": "Zarzalejo"
+  },
+  {
+    "city": "Daya Nueva"
+  },
+  {
+    "city": "Moraleja del Vino"
+  },
+  {
+    "city": "Ador"
+  },
+  {
+    "city": "Garafía"
+  },
+  {
+    "city": "Sobrado"
+  },
+  {
+    "city": "El Gastor"
+  },
+  {
+    "city": "Almaraz"
+  },
+  {
+    "city": "Oliva de Mérida"
+  },
+  {
+    "city": "Polopos"
+  },
+  {
+    "city": "Arquillos"
+  },
+  {
+    "city": "Salvaleón"
+  },
+  {
+    "city": "Oimbra"
+  },
+  {
+    "city": "El Casar de Escalona"
+  },
+  {
+    "city": "Madrigalejo"
+  },
+  {
+    "city": "Palma de Gandía"
+  },
+  {
+    "city": "La Secuita"
+  },
+  {
+    "city": "Alanís"
+  },
+  {
+    "city": "Rosal de la Frontera"
+  },
+  {
+    "city": "Ataun"
+  },
+  {
+    "city": "Pinofranqueado"
+  },
+  {
+    "city": "Benejama"
+  },
+  {
+    "city": "Montizón"
+  },
+  {
+    "city": "Montrás"
+  },
+  {
+    "city": "Canillas de Aceituno"
+  },
+  {
+    "city": "Bimenes"
+  },
+  {
+    "city": "Lovios"
+  },
+  {
+    "city": "Padrenda"
+  },
+  {
+    "city": "La Torre de Esteban Hambrán"
+  },
+  {
+    "city": "Montánchez"
+  },
+  {
+    "city": "Gatica"
+  },
+  {
+    "city": "Arenas de Iguña"
+  },
+  {
+    "city": "Purchena"
+  },
+  {
+    "city": "Tibi"
+  },
+  {
+    "city": "Alcaudete de la Jaya"
+  },
+  {
+    "city": "Alconchel"
+  },
+  {
+    "city": "Agudo"
+  },
+  {
+    "city": "Torreorgaz"
+  },
+  {
+    "city": "Cuartell"
+  },
+  {
+    "city": "Espinosa de los Monteros"
+  },
+  {
+    "city": "Santiurde de Toranzo"
+  },
+  {
+    "city": "Ascó"
+  },
+  {
+    "city": "Covaleda"
+  },
+  {
+    "city": "Aviñonet de Puig Ventós"
+  },
+  {
+    "city": "Santa Eugenia"
+  },
+  {
+    "city": "Zaldivia"
+  },
+  {
+    "city": "Montaberner"
+  },
+  {
+    "city": "Darro"
+  },
+  {
+    "city": "Cañete la Real"
+  },
+  {
+    "city": "Valdestillas"
+  },
+  {
+    "city": "Puebla del Brollón"
+  },
+  {
+    "city": "Zarátamo"
+  },
+  {
+    "city": "Aldea del Rey"
+  },
+  {
+    "city": "Castropodame"
+  },
+  {
+    "city": "Araya"
+  },
+  {
+    "city": "Pol"
+  },
+  {
+    "city": "Salinas"
+  },
+  {
+    "city": "Cabeza la Vaca"
+  },
+  {
+    "city": "Tivisa"
+  },
+  {
+    "city": "Cañamero"
+  },
+  {
+    "city": "Pola de Allande"
+  },
+  {
+    "city": "Santa Pau"
+  },
+  {
+    "city": "Masalavés"
+  },
+  {
+    "city": "La Alberca de Záncara"
+  },
+  {
+    "city": "Salvatierra de los Barros"
+  },
+  {
+    "city": "Quintanar de la Sierra"
+  },
+  {
+    "city": "Cilleros"
+  },
+  {
+    "city": "Fornelos de Montes"
+  },
+  {
+    "city": "Cuevas del Becerro"
+  },
+  {
+    "city": "Pozohondo"
+  },
+  {
+    "city": "Villanueva de Perales"
+  },
+  {
+    "city": "Barruera"
+  },
+  {
+    "city": "Corcubión"
+  },
+  {
+    "city": "Brea de Aragón"
+  },
+  {
+    "city": "Gaucín"
+  },
+  {
+    "city": "Caserras"
+  },
+  {
+    "city": "Fuentesaúco"
+  },
+  {
+    "city": "Barcheta"
+  },
+  {
+    "city": "Valderas"
+  },
+  {
+    "city": "Baños de Río Tobía"
+  },
+  {
+    "city": "Frailes"
+  },
+  {
+    "city": "Hazas de Cesto"
+  },
+  {
+    "city": "Lecumberri"
+  },
+  {
+    "city": "Viver"
+  },
+  {
+    "city": "Alfarp"
+  },
+  {
+    "city": "Lumbrales"
+  },
+  {
+    "city": "Bélmez de la Moraleda"
+  },
+  {
+    "city": "Sayalonga"
+  },
+  {
+    "city": "Asteasu"
+  },
+  {
+    "city": "Albesa"
+  },
+  {
+    "city": "Madrigal de la Vera"
+  },
+  {
+    "city": "Villalón de Campos"
+  },
+  {
+    "city": "Guadalcázar"
+  },
+  {
+    "city": "Jérica"
+  },
+  {
+    "city": "Benifairó de Valldigna"
+  },
+  {
+    "city": "Benirredrá"
+  },
+  {
+    "city": "La Plaza"
+  },
+  {
+    "city": "gualba de Dalt"
+  },
+  {
+    "city": "Melgar de Fernamental"
+  },
+  {
+    "city": "Ledesma"
+  },
+  {
+    "city": "Entrena"
+  },
+  {
+    "city": "Santiso"
+  },
+  {
+    "city": "Las Navas de la Concepción"
+  },
+  {
+    "city": "Sarreal"
+  },
+  {
+    "city": "Ibars de Urgel"
+  },
+  {
+    "city": "Benamargosa"
+  },
+  {
+    "city": "Artesa de Lérida"
+  },
+  {
+    "city": "Belvis de la Jara"
+  },
+  {
+    "city": "Cruz de Incio"
+  },
+  {
+    "city": "Chelva"
+  },
+  {
+    "city": "Añora"
+  },
+  {
+    "city": "Mancor del Valle"
+  },
+  {
+    "city": "Torija"
+  },
+  {
+    "city": "Laujar de Andarax"
+  },
+  {
+    "city": "Soto de la Vega"
+  },
+  {
+    "city": "Belchite"
+  },
+  {
+    "city": "Beiro"
+  },
+  {
+    "city": "Cegama"
+  },
+  {
+    "city": "Benavent de Lérida"
+  },
+  {
+    "city": "Garrafe de Torío"
+  },
+  {
+    "city": "Mora de Rubielos"
+  },
+  {
+    "city": "Navalafuente"
+  },
+  {
+    "city": "Guijo de Galisteo"
+  },
+  {
+    "city": "Molledo"
+  },
+  {
+    "city": "Serradilla"
+  },
+  {
+    "city": "Rábade"
+  },
+  {
+    "city": "Bande"
+  },
+  {
+    "city": "Alquería de la Condesa"
+  },
+  {
+    "city": "Segura"
+  },
+  {
+    "city": "Istán"
+  },
+  {
+    "city": "El Real de la Jara"
+  },
+  {
+    "city": "Baños de Molgas"
+  },
+  {
+    "city": "Pulgar"
+  },
+  {
+    "city": "Pinos Genil"
+  },
+  {
+    "city": "Olazagutía"
+  },
+  {
+    "city": "Chirivel"
+  },
+  {
+    "city": "Labastida"
+  },
+  {
+    "city": "Piornal"
+  },
+  {
+    "city": "Boal"
+  },
+  {
+    "city": "Pedroche"
+  },
+  {
+    "city": "Mayorga"
+  },
+  {
+    "city": "Sallent de Gállego"
+  },
+  {
+    "city": "Gurrea de Gállego"
+  },
+  {
+    "city": "Minaya"
+  },
+  {
+    "city": "Villalba de los Barros"
+  },
+  {
+    "city": "Cardeña"
+  },
+  {
+    "city": "Alcaracejos"
+  },
+  {
+    "city": "Fontcuberta"
+  },
+  {
+    "city": "El Castillo de las Guardas"
+  },
+  {
+    "city": "Muiños"
+  },
+  {
+    "city": "Palenciana"
+  },
+  {
+    "city": "Cádiar"
+  },
+  {
+    "city": "Corbíns"
+  },
+  {
+    "city": "Riós"
+  },
+  {
+    "city": "Esparragalejo"
+  },
+  {
+    "city": "Villanueva de Tapia"
+  },
+  {
+    "city": "Fonollosa"
+  },
+  {
+    "city": "Puente de Domingo Flórez"
+  },
+  {
+    "city": "Villalpando"
+  },
+  {
+    "city": "Campo de Caso"
+  },
+  {
+    "city": "Palau-Sabardera"
+  },
+  {
+    "city": "Soneja"
+  },
+  {
+    "city": "La Roca de la Sierra"
+  },
+  {
+    "city": "Arcos de Jalón"
+  },
+  {
+    "city": "Benaoján"
+  },
+  {
+    "city": "Rioja"
+  },
+  {
+    "city": "Bóveda"
+  },
+  {
+    "city": "Lubrín"
+  },
+  {
+    "city": "Villanueva del Duque"
+  },
+  {
+    "city": "Casas de Don Pedro"
+  },
+  {
+    "city": "Congosto"
+  },
+  {
+    "city": "Torres de Berrellén"
+  },
+  {
+    "city": "Alfamén"
+  },
+  {
+    "city": "Estivella"
+  },
+  {
+    "city": "Lloret de Vista Alegre"
+  },
+  {
+    "city": "San Felíu de Pallarols"
+  },
+  {
+    "city": "Casavieja"
+  },
+  {
+    "city": "Llivia"
+  },
+  {
+    "city": "Algar"
+  },
+  {
+    "city": "Navata"
+  },
+  {
+    "city": "Villalbilla de Burgos"
+  },
+  {
+    "city": "Legorreta"
+  },
+  {
+    "city": "Taboadela"
+  },
+  {
+    "city": "Gata"
+  },
+  {
+    "city": "Puertomarín"
+  },
+  {
+    "city": "Alcántara"
+  },
+  {
+    "city": "Chilluévar"
+  },
+  {
+    "city": "Ibeas de Juarros"
+  },
+  {
+    "city": "Madrigal de las Altas Torres"
+  },
+  {
+    "city": "Peñas de San Pedro"
+  },
+  {
+    "city": "Peraleda de la Mata"
+  },
+  {
+    "city": "Alcolea de Calatrava"
+  },
+  {
+    "city": "Miralcamp"
+  },
+  {
+    "city": "Santa Eulalia de Ríuprimer"
+  },
+  {
+    "city": "Galaroza"
+  },
+  {
+    "city": "Ahigal"
+  },
+  {
+    "city": "Alaejos"
+  },
+  {
+    "city": "El Ronquillo"
+  },
+  {
+    "city": "Trujillanos"
+  },
+  {
+    "city": "Albudeite"
+  },
+  {
+    "city": "Junquera de Ambía"
+  },
+  {
+    "city": "Torres"
+  },
+  {
+    "city": "Cuevas Bajas"
+  },
+  {
+    "city": "Jadraque"
+  },
+  {
+    "city": "Cardeñadijo"
+  },
+  {
+    "city": "San Cristóbal de Entreviñas"
+  },
+  {
+    "city": "Traiguera"
+  },
+  {
+    "city": "Busto de Treviño"
+  },
+  {
+    "city": "Mahora"
+  },
+  {
+    "city": "Montemolín"
+  },
+  {
+    "city": "Termens"
+  },
+  {
+    "city": "Puebla de Sanabria"
+  },
+  {
+    "city": "Rafelcofer"
+  },
+  {
+    "city": "Fuerte del Rey"
+  },
+  {
+    "city": "Lagartera"
+  },
+  {
+    "city": "Villar de Rena"
+  },
+  {
+    "city": "Cabanillas"
+  },
+  {
+    "city": "Abenójar"
+  },
+  {
+    "city": "Puigvert de Lérida"
+  },
+  {
+    "city": "Villoría"
+  },
+  {
+    "city": "Casatejada"
+  },
+  {
+    "city": "Facinas"
+  },
+  {
+    "city": "Campillo de Llerena"
+  },
+  {
+    "city": "San Acisclo de Vallalta"
+  },
+  {
+    "city": "Alcántara de Júcar"
+  },
+  {
+    "city": "Almoster"
+  },
+  {
+    "city": "Riópar"
+  },
+  {
+    "city": "Cantimpalos"
+  },
+  {
+    "city": "Castrelo de Miño"
+  },
+  {
+    "city": "Irijoa"
+  },
+  {
+    "city": "Potes"
+  },
+  {
+    "city": "Carchel"
+  },
+  {
+    "city": "Lezuza"
+  },
+  {
+    "city": "Comares"
+  },
+  {
+    "city": "Costitx"
+  },
+  {
+    "city": "Torrente de Cinca"
+  },
+  {
+    "city": "La Parra"
+  },
+  {
+    "city": "Algueña"
+  },
+  {
+    "city": "Casas de Juan Núñez"
+  },
+  {
+    "city": "Bolbaite"
+  },
+  {
+    "city": "Alcaraz"
+  },
+  {
+    "city": "Majadas"
+  },
+  {
+    "city": "Castilléjar"
+  },
+  {
+    "city": "Mañón"
+  },
+  {
+    "city": "Lucena del Cid"
+  },
+  {
+    "city": "Encinasola"
+  },
+  {
+    "city": "Almadén de la Plata"
+  },
+  {
+    "city": "Alcalalí"
+  },
+  {
+    "city": "Colomera"
+  },
+  {
+    "city": "Macastre"
+  },
+  {
+    "city": "Almoguera"
+  },
+  {
+    "city": "Lumbier"
+  },
+  {
+    "city": "Montiel"
+  },
+  {
+    "city": "San Román"
+  },
+  {
+    "city": "Villapresente"
+  },
+  {
+    "city": "Rótova"
+  },
+  {
+    "city": "Higuera de la Sierra"
+  },
+  {
+    "city": "Tous"
+  },
+  {
+    "city": "La Fuente de San Esteban"
+  },
+  {
+    "city": "Villar de Barrio"
+  },
+  {
+    "city": "Sartaguda"
+  },
+  {
+    "city": "La Caña"
+  },
+  {
+    "city": "Melón"
+  },
+  {
+    "city": "Navas del Madroño"
+  },
+  {
+    "city": "Vilarrodona"
+  },
+  {
+    "city": "Pla del Panadés"
+  },
+  {
+    "city": "Lacunza"
+  },
+  {
+    "city": "Vall de Vianya"
+  },
+  {
+    "city": "Carballeda de Avia"
+  },
+  {
+    "city": "Matallana de Torío"
+  },
+  {
+    "city": "Perafort"
+  },
+  {
+    "city": "Loranca de Tajuña"
+  },
+  {
+    "city": "Trasmiras"
+  },
+  {
+    "city": "Figueruelas"
+  },
+  {
+    "city": "Mirandilla"
+  },
+  {
+    "city": "Iza"
+  },
+  {
+    "city": "Jerte"
+  },
+  {
+    "city": "Ormáiztegui"
+  },
+  {
+    "city": "Mas de las Matas"
+  },
+  {
+    "city": "Páramo del Sil"
+  },
+  {
+    "city": "Sariego"
+  },
+  {
+    "city": "Algámitas"
+  },
+  {
+    "city": "Ricote"
+  },
+  {
+    "city": "Nuñomoral"
+  },
+  {
+    "city": "Moclinejo"
+  },
+  {
+    "city": "Berriatúa"
+  },
+  {
+    "city": "Chimeneas"
+  },
+  {
+    "city": "La Fuliola"
+  },
+  {
+    "city": "Abla"
+  },
+  {
+    "city": "Torre de Miguel Sesmero"
+  },
+  {
+    "city": "Samos"
+  },
+  {
+    "city": "Ceánuri Alto"
+  },
+  {
+    "city": "Montalbán"
+  },
+  {
+    "city": "Hondón de los Frailes"
+  },
+  {
+    "city": "Almendral"
+  },
+  {
+    "city": "Coripe"
+  },
+  {
+    "city": "Llers"
+  },
+  {
+    "city": "Torá de Riubregós"
+  },
+  {
+    "city": "Rueda"
+  },
+  {
+    "city": "La Gudiña"
+  },
+  {
+    "city": "Ríotorto"
+  },
+  {
+    "city": "Villagonzalo"
+  },
+  {
+    "city": "Campredó"
+  },
+  {
+    "city": "Velilla del Río Carrión"
+  },
+  {
+    "city": "María"
+  },
+  {
+    "city": "Alborache"
+  },
+  {
+    "city": "Campotéjar"
+  },
+  {
+    "city": "San Martín de Tous"
+  },
+  {
+    "city": "Rairiz de Veiga"
+  },
+  {
+    "city": "Albocácer"
+  },
+  {
+    "city": "El Puente del Arzobispo"
+  },
+  {
+    "city": "Barrio de Jarana"
+  },
+  {
+    "city": "Laza"
+  },
+  {
+    "city": "Capela"
+  },
+  {
+    "city": "Villatuerta"
+  },
+  {
+    "city": "Alfarrasi"
+  },
+  {
+    "city": "La Haba"
+  },
+  {
+    "city": "Puebla Tornesa"
+  },
+  {
+    "city": "Puebla de Alcocer"
+  },
+  {
+    "city": "Vilasantar"
+  },
+  {
+    "city": "Villarmayor"
+  },
+  {
+    "city": "Aldeadávila de la Ribera"
+  },
+  {
+    "city": "Albalat de Taronchers"
+  },
+  {
+    "city": "San Antolín"
+  },
+  {
+    "city": "Baltanás"
+  },
+  {
+    "city": "Castro Caldelas"
+  },
+  {
+    "city": "Olost"
+  },
+  {
+    "city": "Ríolobos"
+  },
+  {
+    "city": "Valdepolo"
+  },
+  {
+    "city": "Bellcaire de Urgel"
+  },
+  {
+    "city": "Zarza la Mayor"
+  },
+  {
+    "city": "Sandianes"
+  },
+  {
+    "city": "Camporrobles"
+  },
+  {
+    "city": "Venta del Moro"
+  },
+  {
+    "city": "Cenizate"
+  },
+  {
+    "city": "Alcalá del Júcar"
+  },
+  {
+    "city": "Corte de Peleas"
+  },
+  {
+    "city": "Riudecols"
+  },
+  {
+    "city": "Villanueva de Duero"
+  },
+  {
+    "city": "Canjáyar"
+  },
+  {
+    "city": "Carrizosa"
+  },
+  {
+    "city": "Bárzana"
+  },
+  {
+    "city": "Moeche"
+  },
+  {
+    "city": "Nigüelas"
+  },
+  {
+    "city": "Orce"
+  },
+  {
+    "city": "Vilanova de Bellpuig"
+  },
+  {
+    "city": "Piñor"
+  },
+  {
+    "city": "Abrucena"
+  },
+  {
+    "city": "Ayllón"
+  },
+  {
+    "city": "Caminomorisco"
+  },
+  {
+    "city": "Burgohondo"
+  },
+  {
+    "city": "Villayón"
+  },
+  {
+    "city": "Valdetorres"
+  },
+  {
+    "city": "Nerpio"
+  },
+  {
+    "city": "Ullá"
+  },
+  {
+    "city": "Arenas"
+  },
+  {
+    "city": "Alcolea de Cinca"
+  },
+  {
+    "city": "Medina de las Torres"
+  },
+  {
+    "city": "Cabra del Campo"
+  },
+  {
+    "city": "Mallavia"
+  },
+  {
+    "city": "Cheles"
+  },
+  {
+    "city": "Valle de la Serena"
+  },
+  {
+    "city": "San Pedro"
+  },
+  {
+    "city": "Huéneja"
+  },
+  {
+    "city": "Verges"
+  },
+  {
+    "city": "Lapeza"
+  },
+  {
+    "city": "Fermoselle"
+  },
+  {
+    "city": "Ribesalbes"
+  },
+  {
+    "city": "Puigpelat"
+  },
+  {
+    "city": "Villadangos del Páramo"
+  },
+  {
+    "city": "Adzaneta de Albaida"
+  },
+  {
+    "city": "Paymogo"
+  },
+  {
+    "city": "Puebla de Don Rodrigo"
+  },
+  {
+    "city": "Vilamalla"
+  },
+  {
+    "city": "Sesma"
+  },
+  {
+    "city": "Cala"
+  },
+  {
+    "city": "Siete Aguas"
+  },
+  {
+    "city": "Antella"
+  },
+  {
+    "city": "Montesa"
+  },
+  {
+    "city": "Cherta"
+  },
+  {
+    "city": "Pradoluengo"
+  },
+  {
+    "city": "Liétor"
+  },
+  {
+    "city": "Relleu"
+  },
+  {
+    "city": "Sarrión"
+  },
+  {
+    "city": "Fuente Carreteros"
+  },
+  {
+    "city": "Horta de San Juan"
+  },
+  {
+    "city": "Leciñena"
+  },
+  {
+    "city": "Sarreaus"
+  },
+  {
+    "city": "Valle de Santa Ana"
+  },
+  {
+    "city": "Benabarre"
+  },
+  {
+    "city": "Benisanet"
+  },
+  {
+    "city": "El Pedernoso"
+  },
+  {
+    "city": "Valdefuentes"
+  },
+  {
+    "city": "Pedro Martínez"
+  },
+  {
+    "city": "Tuéjar"
+  },
+  {
+    "city": "Cardeñajimeno"
+  },
+  {
+    "city": "Sobradiel"
+  },
+  {
+    "city": "Higueruela"
+  },
+  {
+    "city": "Señera"
+  },
+  {
+    "city": "Elgueta"
+  },
+  {
+    "city": "Llaurí"
+  },
+  {
+    "city": "Bustillo del Páramo"
+  },
+  {
+    "city": "Montillana"
+  },
+  {
+    "city": "Villamanrique"
+  },
+  {
+    "city": "Los Arcos"
+  },
+  {
+    "city": "Trabada"
+  },
+  {
+    "city": "La Pedraja de Portillo"
+  },
+  {
+    "city": "Bitem"
+  },
+  {
+    "city": "Sabero"
+  },
+  {
+    "city": "Cofrentes"
+  },
+  {
+    "city": "Igüeña"
+  },
+  {
+    "city": "Sástago"
+  },
+  {
+    "city": "Valenzuela"
+  },
+  {
+    "city": "Villaralto"
+  },
+  {
+    "city": "Rotglá y Corbera"
+  },
+  {
+    "city": "Corral de Calatrava"
+  },
+  {
+    "city": "Vilajuiga"
+  },
+  {
+    "city": "Bosost"
+  },
+  {
+    "city": "Feria"
+  },
+  {
+    "city": "Magallón"
+  },
+  {
+    "city": "Traspinedo"
+  },
+  {
+    "city": "Agulo"
+  },
+  {
+    "city": "Ribarroja de Ebro"
+  },
+  {
+    "city": "Arbizu"
+  },
+  {
+    "city": "San Carlos del Valle"
+  },
+  {
+    "city": "Entrimo"
+  },
+  {
+    "city": "Fabara"
+  },
+  {
+    "city": "Vegasdel Condado"
+  },
+  {
+    "city": "San Asensio"
+  },
+  {
+    "city": "Albaladejo"
+  },
+  {
+    "city": "Sinarcas"
+  },
+  {
+    "city": "Cárcar"
+  },
+  {
+    "city": "Serrada"
+  },
+  {
+    "city": "Esgos"
+  },
+  {
+    "city": "Piñar"
+  },
+  {
+    "city": "Casalarreina"
+  },
+  {
+    "city": "Villagordo del Júcar"
+  },
+  {
+    "city": "Villamañán"
+  },
+  {
+    "city": "Cenlle"
+  },
+  {
+    "city": "Ariza"
+  },
+  {
+    "city": "Beniarrés"
+  },
+  {
+    "city": "Albalate de Cinca"
+  },
+  {
+    "city": "Sorihuela del Guadalimar"
+  },
+  {
+    "city": "Tornavacas"
+  },
+  {
+    "city": "Sumacárcel"
+  },
+  {
+    "city": "Agoncillo"
+  },
+  {
+    "city": "Mendigorría"
+  },
+  {
+    "city": "Monteagudo"
+  },
+  {
+    "city": "La Pobla de Lillet"
+  },
+  {
+    "city": "Pola de Somiedo"
+  },
+  {
+    "city": "Villanueva de San Juan"
+  },
+  {
+    "city": "Villanueva de la Barca"
+  },
+  {
+    "city": "Duruelo de la Sierra"
+  },
+  {
+    "city": "Búger"
+  },
+  {
+    "city": "Cerdido"
+  },
+  {
+    "city": "Carcaboso"
+  },
+  {
+    "city": "Casar de Palomero"
+  },
+  {
+    "city": "Somozas"
+  },
+  {
+    "city": "Gérgal"
+  },
+  {
+    "city": "Benidoleig"
+  },
+  {
+    "city": "Torremocha de Jarama"
+  },
+  {
+    "city": "Berástegui"
+  },
+  {
+    "city": "Remolinos"
+  },
+  {
+    "city": "Santa Cristina de la Polvorosa"
+  },
+  {
+    "city": "Dozón"
+  },
+  {
+    "city": "Masdenverge"
+  },
+  {
+    "city": "La Alberca"
+  },
+  {
+    "city": "Galera"
+  },
+  {
+    "city": "Cortegada"
+  },
+  {
+    "city": "Torrecillas de la Tiesa"
+  },
+  {
+    "city": "Escatrón"
+  },
+  {
+    "city": "Morata de Jalón"
+  },
+  {
+    "city": "Alfarnate"
+  },
+  {
+    "city": "Alcañices"
+  },
+  {
+    "city": "Valdecaballeros"
+  },
+  {
+    "city": "Port-Bou"
+  },
+  {
+    "city": "Benasal"
+  },
+  {
+    "city": "Navia de Suarna"
+  },
+  {
+    "city": "Ventas con Peña Aguilera"
+  },
+  {
+    "city": "Vedia-Elejalde"
+  },
+  {
+    "city": "Laguna de Negrillos"
+  },
+  {
+    "city": "Potríes"
+  },
+  {
+    "city": "Campaspero"
+  },
+  {
+    "city": "La Seca"
+  },
+  {
+    "city": "Nalda"
+  },
+  {
+    "city": "Santa Eulalia"
+  },
+  {
+    "city": "Benalúa de las Villas"
+  },
+  {
+    "city": "Algimia de Alfara"
+  },
+  {
+    "city": "Villabrágima"
+  },
+  {
+    "city": "El Robledo"
+  },
+  {
+    "city": "San Amaro"
+  },
+  {
+    "city": "Ayerbe"
+  },
+  {
+    "city": "Jayena"
+  },
+  {
+    "city": "Santa Eulalia"
+  },
+  {
+    "city": "Benlloch"
+  },
+  {
+    "city": "Llanera de Ranes"
+  },
+  {
+    "city": "Viladrau"
+  },
+  {
+    "city": "Valverde de Mérida"
+  },
+  {
+    "city": "Santa Elena de Jamuz"
+  },
+  {
+    "city": "Solórzano"
+  },
+  {
+    "city": "Calders"
+  },
+  {
+    "city": "Folgoso de la Ribera"
+  },
+  {
+    "city": "Boltaña"
+  },
+  {
+    "city": "Coreses"
+  },
+  {
+    "city": "Santa Bárbara de Casa"
+  },
+  {
+    "city": "Gabarda"
+  },
+  {
+    "city": "Torrecampo"
+  },
+  {
+    "city": "Hortaleza"
+  },
+  {
+    "city": "Arróniz"
+  },
+  {
+    "city": "Ademuz"
+  },
+  {
+    "city": "Nívar"
+  },
+  {
+    "city": "Bodonal de la Sierra"
+  },
+  {
+    "city": "Cañaveral"
+  },
+  {
+    "city": "Partaloa"
+  },
+  {
+    "city": "Matapozuelos"
+  },
+  {
+    "city": "Castañar de Ibor"
+  },
+  {
+    "city": "Aledo"
+  },
+  {
+    "city": "Montesquíu"
+  },
+  {
+    "city": "Bonete"
+  },
+  {
+    "city": "Quintanilla de Onésimo"
+  },
+  {
+    "city": "Cuart de les Valls"
+  },
+  {
+    "city": "Santa María de Oló"
+  },
+  {
+    "city": "Illas"
+  },
+  {
+    "city": "Fortaleny"
+  },
+  {
+    "city": "Macotera"
+  },
+  {
+    "city": "Palmera"
+  },
+  {
+    "city": "La Pesga"
+  },
+  {
+    "city": "Villanueva del Rey"
+  },
+  {
+    "city": "La Mezquita"
+  },
+  {
+    "city": "San José"
+  },
+  {
+    "city": "Alhama de Aragón"
+  },
+  {
+    "city": "Albanchez de Úbeda"
+  },
+  {
+    "city": "Otívar"
+  },
+  {
+    "city": "Arenas de San Juan"
+  },
+  {
+    "city": "Ruente"
+  },
+  {
+    "city": "San Cugat Sasgarrigas"
+  },
+  {
+    "city": "Pinell de Bray"
+  },
+  {
+    "city": "Bermillo de Sayago"
+  },
+  {
+    "city": "Albarracín"
+  },
+  {
+    "city": "Santibáñez de la Peña"
+  },
+  {
+    "city": "Elciego"
+  },
+  {
+    "city": "Báscara"
+  },
+  {
+    "city": "Ourense"
+  },
+  {
+    "city": "Palencia"
+  },
+  {
+    "city": "Lleida"
+  },
+  {
+    "city": "Segovia"
+  },
+  {
+    "city": "Ciudad Real"
+  },
+  {
+    "city": "Soria"
+  }
+]
