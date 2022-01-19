@@ -11,7 +11,7 @@ const RoomCard = ({ room }) => {
   return (
     <div className="w-60 m-7 rounded-xl flex flex-col  shadow-md bg-white">
       <Image
-        cloudName="home-hopper"
+        cloudName="fede4954"
         publicId={room.image}
         className="h-44 w-full object-cover  rounded-t-xl "
       />

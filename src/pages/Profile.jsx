@@ -161,7 +161,7 @@ const Profile = () => {
                     className="w-full my-7 rounded-xl flex shadow-md bg-white  items-end"
                   >
                     <Image
-                      cloudName="home-hopper"
+                      cloudName="fede4954"
                       publicId={room.image}
                       className="h-24 w-32 object-cover  rounded-l-xl mr-6"
                     />

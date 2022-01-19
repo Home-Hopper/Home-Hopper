@@ -35,7 +35,7 @@ const RoomInfo = () => {
       ) : (
         <div className="flex flex-col justify-center items-center bg-purple-200">
           <div className="bg-white p-10 rounded my-10 w-3/4 2xl:w-2/4">
-            <Image cloudName="home-hopper" publicId={room?.image} />
+            <Image cloudName="fede4954" publicId={room?.image} />
 
             <div className="my-5">
               <div className="flex flex-row justify-between">
@@ -78,7 +78,7 @@ const RoomInfo = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <FontAwesomeIcon icon={faShareAlt} className="mr-2"/>
+                    <FontAwesomeIcon icon={faShareAlt} className="mr-2" />
                     Share on WhatsApp
                   </a>
                 </p>
@@ -88,7 +88,7 @@ const RoomInfo = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <FontAwesomeIcon icon={faWhatsapp} className="mr-2"/>
+                    <FontAwesomeIcon icon={faWhatsapp} className="mr-2" />
                     Contact the owner
                   </a>
                 </p>
