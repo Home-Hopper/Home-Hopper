@@ -23,11 +23,17 @@
     "react-router-dom": "^6.0.2",
     "react-scripts": "^4.0.3",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "tailwindcss-cli": "^0.1.2"
+    "tailwindcss-cli": "^0.1.2",
+    "@testing-library/jest-dom": "^5.16.0",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^9",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "postcss": "^7"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
@@ -48,13 +54,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@testing-library/jest-dom": "^5.16.0",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "autoprefixer": "^9",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "postcss": "^7"
   }
 }
