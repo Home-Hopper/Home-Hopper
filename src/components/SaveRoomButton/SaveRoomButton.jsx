@@ -15,8 +15,8 @@ const SaveRoomButton = ({ roomId }) => {
   //   ...(icon === 'heart' && { color: 'tomato' }),
   // }
   const heartIcon = {
-    emptyHeart: 'emptyHeart',
-    heart: 'heart',
+    emptyHeart: faEmptyHeart,
+    heart: faHeart,
   }
 
   // useEffect(() => {
