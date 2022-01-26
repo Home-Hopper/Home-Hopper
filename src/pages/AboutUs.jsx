@@ -1,7 +1,7 @@
-import { faFontAwesome } from '@fortawesome/free-brands-svg-icons'
 import { faGithubSquare } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+
 const AboutUs = () => {
   return (
     <main className="bg-purple-200 flex justify-center py-12">
@@ -33,10 +33,18 @@ const AboutUs = () => {
               currently working on.
             </p>
             <div className="w-full flex justify-evenly text-2xl">
-              <a href="https://github.com/nereapardo" target="_blank">
+              <a
+                href="https://github.com/nereapardo"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FontAwesomeIcon icon={faGithubSquare} />
               </a>
-              <a href="https://www.linkedin.com/in/nereapardo/" target="_blank">
+              <a
+                href="https://www.linkedin.com/in/nereapardo/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
             </div>
@@ -53,12 +61,17 @@ const AboutUs = () => {
               Github so you can check more of my current projects.
             </p>
             <div className="w-full flex justify-evenly mt-4 text-2xl">
-              <a href="https://github.com/fede4954" target="_blank">
+              <a
+                href="https://github.com/fede4954"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FontAwesomeIcon icon={faGithubSquare} />
               </a>
               <a
                 href="https://www.linkedin.com/in/federico-g%C3%B3mez-lara-a5641921b/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
