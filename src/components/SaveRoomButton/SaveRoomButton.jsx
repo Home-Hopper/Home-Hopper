@@ -15,8 +15,8 @@ const SaveRoomButton = ({ roomId }) => {
     ...(icon === 'heart' && { color: 'tomato' }),
   }
   const heartIcon = {
-    emptyHeart: faEmptyHeart,
-    heart: faHeart,
+    emptyHeart: 'E',
+    heart: 'H',
   }
 
   useEffect(() => {
@@ -40,19 +40,21 @@ const SaveRoomButton = ({ roomId }) => {
     <>
       {user && (
         <button onClick={updateSaved}>
-          <FontAwesomeIcon
+          {heartIcon.emptyHeart}
+          {/* <FontAwesomeIcon
             icon={heartIcon[icon]}
             className="text-2xl text-gray-700"
             style={iconStyle}
-          />
+          /> */}
         </button>
       )}
       {!user && (
         <Link to={PATHS.LOGINPAGE}>
-          <FontAwesomeIcon
+          {heartIcon[icon]}
+          {/* <FontAwesomeIcon
             icon={heartIcon.emptyHeart}
             className="text-2xl text-gray-700"
-          />
+          /> */}
         </Link>
       )}
     </>

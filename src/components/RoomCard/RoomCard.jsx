@@ -26,7 +26,7 @@ const RoomCard = ({ room }) => {
             </span>
           </div>
           <div className="flex flex-grow justify-center items-center ">
-            {/* <SaveRoomButton roomId={room._id} /> */}
+            <SaveRoomButton roomId={room._id} />
           </div>
         </div>
         <div className="overflow-y-hidden overflow-ellipsis h-14 flex items-center mt-2">
