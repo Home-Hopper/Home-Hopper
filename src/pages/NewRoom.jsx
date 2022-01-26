@@ -67,6 +67,7 @@ const NewRoom = () => {
       formData.append('file', img)
       formData.append('public_id', id)
       formData.append('upload_preset', 'hhUpload')
+      formData.append('folder', 'home-hopper')
       const cloudinaryRes = await axios.post(
         'https://api.cloudinary.com/v1_1/fede4954/image/upload',
         formData
