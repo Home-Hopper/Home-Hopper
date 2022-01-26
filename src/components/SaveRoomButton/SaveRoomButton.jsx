@@ -12,7 +12,7 @@ const SaveRoomButton = ({ roomId }) => {
   const [icon, setIcon] = useState('emptyHeart')
   const { user, setUser } = useContext(AuthContext)
   const iconStyle = {
-    ...(icon === faHeart && { color: 'tomato' }),
+    ...(icon === 'heart' && { color: 'tomato' }),
   }
   const heartIcon = {
     emptyHeart: faEmptyHeart,
