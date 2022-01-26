@@ -9,14 +9,14 @@ import * as PATHS from '../../utils/paths'
 import { Link } from 'react-router-dom'
 
 const SaveRoomButton = ({ roomId }) => {
-  const [icon, setIcon] = useState('emptyHeart')
+  const [icon, setIcon] = useState('')
   const { user, setUser } = useContext(AuthContext)
   const iconStyle = {
     ...(icon === 'heart' && { color: 'tomato' }),
   }
   const heartIcon = {
-    emptyHeart: 'E',
-    heart: 'H',
+    emptyHeart: 'emptyHeart',
+    heart: 'heart',
   }
 
   useEffect(() => {
@@ -40,21 +40,19 @@ const SaveRoomButton = ({ roomId }) => {
     <>
       {user && (
         <button onClick={updateSaved}>
-          {heartIcon.emptyHeart}
-          {/* <FontAwesomeIcon
-            icon={heartIcon[icon]}
+          <FontAwesomeIcon
+            icon={heartIcon.heart}
             className="text-2xl text-gray-700"
             style={iconStyle}
-          /> */}
+          />
         </button>
       )}
       {!user && (
         <Link to={PATHS.LOGINPAGE}>
-          {heartIcon[icon]}
-          {/* <FontAwesomeIcon
+          <FontAwesomeIcon
             icon={heartIcon.emptyHeart}
             className="text-2xl text-gray-700"
-          /> */}
+          />
         </Link>
       )}
     </>
