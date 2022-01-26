@@ -9,7 +9,7 @@ import * as PATHS from '../../utils/paths'
 import { Link } from 'react-router-dom'
 
 const SaveRoomButton = ({ roomId }) => {
-  // const [icon, setIcon] = useState('')
+  const [icon, setIcon] = useState('')
   const { user, setUser } = useContext(AuthContext)
   // const iconStyle = {
   //   ...(icon === 'heart' && { color: 'tomato' }),
