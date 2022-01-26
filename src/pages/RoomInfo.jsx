@@ -1,6 +1,5 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useParams } from 'react-router'
-import { useState } from 'react/cjs/react.development'
 import { getRoom } from '../services/rooms.services'
 import { Image } from 'cloudinary-react'
 import LoadingComponent from '../components/Loading'
