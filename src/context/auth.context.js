@@ -48,15 +48,12 @@ const AuthProviderWrapper = (props) => {
     }
   }
 
-  const authenticate = (user) => {
-    setUser(user)
-  }
   if (isLoading) {
     return <LoadingComponent />
   }
 
   return (
-    <AuthContext.Provider value={{ user, setUser, authenticate, handleLogout }}>
+    <AuthContext.Provider value={{ user, setUser, handleLogout }}>
       {props.children}
     </AuthContext.Provider>
   )

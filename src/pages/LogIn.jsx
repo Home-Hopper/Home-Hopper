@@ -7,7 +7,6 @@ import * as USER_HELPERS from '../utils/userToken'
 import { AuthContext } from '../context/auth.context'
 
 const LogIn = () => {
-  const { authenticate } = useContext(AuthContext)
   const [form, setForm] = useState({
     email: '',
     password: '',
@@ -33,8 +32,7 @@ const LogIn = () => {
       return setError({ message: 'Invalid credentials' })
     }
     USER_HELPERS.setUserToken(res.data.accessToken)
-    authenticate(res.data.user)
-    navigate(PATHS.HOMEPAGE)
+    window.location.assign(PATHS.HOMEPAGE)
   }
 
   return (

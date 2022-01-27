@@ -10,7 +10,6 @@ const Signup = () => {
   let registerAsLandlord
   if (location.state === null) registerAsLandlord = undefined
   else registerAsLandlord = location.state.landlord
-  const { authenticate } = useContext(AuthContext)
   const [form, setForm] = useState({
     email: '',
     password: '',
@@ -55,8 +54,7 @@ const Signup = () => {
     }
     // successful signup
     USER_HELPERS.setUserToken(res.data.accessToken)
-    authenticate(res.data.user)
-    navigate(PATHS.HOMEPAGE)
+    window.location.assign(PATHS.HOMEPAGE)
   }
 
   return (
