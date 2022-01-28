@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import * as PATHS from '../../../utils/paths'
 const CallToAction = () => {
   return (
-    <div className="flex justify-center items-center h-screen text-center">
+    <div className="flex justify-center items-center text-center py-24">
       <div className="w-9/12 flex flex-col md:flex-row justify-around">
         <div className="flex flex-col items-center md:w-5/12 mb-12 md:mb-0">
           <h3 className="text-2xl md:text-4xl h-24">Need a room?</h3>
@@ -12,7 +12,7 @@ const CallToAction = () => {
           <Link
             to={PATHS.SIGNUPPAGE}
             state={{ landlord: false }}
-            className="bg-yellow text-purple-dark font-bold py-2 px-6 rounded-lg border-none ml-8 text-xl"
+            className="bg-yellow text-purple-dark font-bold py-2 px-6 rounded-lg border-none text-xl"
           >
             Register as a tenant
           </Link>
@@ -25,7 +25,7 @@ const CallToAction = () => {
           <Link
             to={PATHS.SIGNUPPAGE}
             state={{ landlord: true }}
-            className="bg-yellow text-purple-dark font-bold py-2 px-6 rounded-lg border-none ml-8 text-xl"
+            className="bg-yellow text-purple-dark font-bold py-2 px-6 rounded-lg border-none text-xl"
           >
             Register as a landlord
           </Link>

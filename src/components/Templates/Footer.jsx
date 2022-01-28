@@ -23,7 +23,14 @@ const Footer = () => {
             >
               <FontAwesomeIcon icon={faGithubSquare} className="mr-2" />
             </a>
-            <span>Nerea Pardo Cundíns</span>
+            <a
+              href="https://www.nereapardo.com"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:underline"
+            >
+              <span>Nerea Pardo Cundíns</span>
+            </a>
           </div>
           <div className="flex text-md items-center">
             <a
@@ -50,7 +57,7 @@ const Footer = () => {
         </Link>
       </div>
       <div className="w-full md:w-1/3 text-center md:text-right mr-2">
-        Made with ❤ || 2021
+        Made with ❤ | 2021
       </div>
     </footer>
   )

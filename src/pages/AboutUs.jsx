@@ -5,22 +5,22 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 const AboutUs = () => {
   return (
     <main className="bg-purple-200 flex justify-center py-12">
-      <div className="w-9/12 ">
+      <div className="w-9/12">
         <h1 className="text-center text-2xl mb-2">
           👋Hi! We are Nerea & Federico
         </h1>
         <h2 className="text-center mb-6">
           We are happy to see you´ve found Home Hopper, hope you like it!
         </h2>
-        <p>
+        <p className="mb-6 text-justify">
           Home Hopper started as a second version of one of our previous
           projects as Ironhack students. We both have struggled in the past
           trying to find a place to stay for a short amount of time and we are
           sure there are more people out there in the same situation. That´s why
           we decided to join our forces and develop this new web-application.
         </p>
-        <div className="w-full h-auto flex flex-col md:flex-row justify-evenly mt-2">
-          <div className="w-60 rounded-xl flex flex-col items-center  shadow-md bg-white p-6">
+        <div className="w-full h-auto flex flex-col md:flex-row justify-center md:justify-evenly mt-2">
+          <div className="md:w-60 rounded-xl flex flex-col items-center shadow-md bg-white p-6  mx-auto mb-4">
             <img
               src="../../images/nerea.jpg"
               alt="nerea"
@@ -28,9 +28,19 @@ const AboutUs = () => {
             />
             <span className="mb-8">Nerea Pardo Cundíns</span>
             <p className="text-justify">
-              Hi! I´m Nerea, a full-stack web developer, and I invite you to
-              check my profiles in LinkedIn and Github so you can know what I am
-              currently working on.
+              Hi! I´m Nerea, full-stack web developer.
+            </p>
+            <p className="text-justify mb-2">
+              I invite you to check my LinkedIn, Github and my{' '}
+              <a
+                href="https://www.nereapardo.com"
+                target="_blank"
+                rel="noreferrer"
+                className="underline"
+              >
+                portfolio
+              </a>
+              , so you can see what I am currently working on.
             </p>
             <div className="w-full flex justify-evenly text-2xl">
               <a
@@ -49,14 +59,14 @@ const AboutUs = () => {
               </a>
             </div>
           </div>
-          <div className="w-60 rounded-xl flex flex-col items-center  shadow-md bg-white p-6">
+          <div className="md:w-60 rounded-xl flex flex-col items-center  shadow-md bg-white p-6 mx-auto mb-4">
             <img
               src="../../images/fede.jpg"
               alt="Federico"
               className="rounded-full mb-2"
             />
             <span className="mb-8">Federico Gómez Lara</span>
-            <p className="text-justify">
+            <p className="text-justify mb-8">
               I´m Fede, a full-stack web developer. Here are my LinkedIn and
               Github so you can check more of my current projects.
             </p>
