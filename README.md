@@ -1,3 +1,6 @@
+
+![homeHopper](https://user-images.githubusercontent.com/77238108/151612128-a7228c7b-5e71-4614-8ef6-7b06ec208bd4.jpg)
+
 # What's Home Hopper?
 
 Home Hopper is a React application that simulates a real site where you can publish advertisements for rooms you rent, it's based around the idea of mainly short term arrangements with landlords. 
