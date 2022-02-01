@@ -50,7 +50,7 @@ const LogIn = () => {
             className="border-2 border-gray-500 p-1.5 mb-1"
             type="text"
             name="email"
-            placeholder="john.doe@gmail.com"
+            placeholder="demo@user.com"
             value={email}
             onChange={handleInputChange}
             required
@@ -62,7 +62,7 @@ const LogIn = () => {
             className="border-2 border-gray-500 p-1.5 mb-4"
             type="password"
             name="password"
-            placeholder="********"
+            placeholder="Demopassword123"
             value={password}
             onChange={handleInputChange}
             required
