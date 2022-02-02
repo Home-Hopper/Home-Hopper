@@ -44,7 +44,7 @@ const AutoComplete = ({ isOnFilter, URL, locationInput, setLocationInput }) => {
   return (
     <div className=" w-full relative">
       <input
-        className="border-2 outline-none w-full h-6 pl-3 border-none"
+        className="border-2 outline-none w-full h-6 pl-3 border-none rounded"
         type="text"
         value={locationInput}
         name="location"

@@ -3,7 +3,6 @@ import { faSearchLocation } from '@fortawesome/free-solid-svg-icons'
 import { useEffect, useState } from 'react'
 import HomeSearchLocations from '../../HomeSearchLocation/HomeSearchLocation'
 import { Link } from 'react-router-dom'
-// import axios from "axios";
 
 const Hero = () => {
   const [searchParams, setSearchParams] = useState('')

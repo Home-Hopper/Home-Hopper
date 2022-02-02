@@ -75,7 +75,7 @@ const Filters = ({ setRooms, setLoading }) => {
         <select
           name="price"
           id="price"
-          className="h-6 pl-2 bg-white"
+          className="h-6 pl-2 bg-white rounded"
           value={priceInput || PRICE_OPTION_1}
           onChange={(event) => handlePriceInputChange(event)}
         >

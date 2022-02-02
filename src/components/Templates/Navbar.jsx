@@ -89,7 +89,7 @@ const Navbar = () => {
                     to={PATHS.SIGNUPPAGE}
                     className="py-5 px-3 text-gray-light hover:text-purple-light-background hover:underline"
                   >
-                    Signup
+                    Sign Up
                   </NavLink>
                   <NavLink
                     to={PATHS.LOGINPAGE}
@@ -156,7 +156,7 @@ const Navbar = () => {
                   className="py-5 px-3 text-gray-light hover:text-purple-light-background text-left"
                   onClick={handleLogout}
                 >
-                  Logout
+                  Log Out
                 </button>
               </>
             ) : (
