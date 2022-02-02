@@ -1,10 +1,10 @@
-import React, { useContext, useState } from 'react'
+import React, { useState } from 'react'
 import { login } from '../services/auth.services'
-import { Link, useNavigate } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './Signup'
 import * as PATHS from '../utils/paths'
 import * as USER_HELPERS from '../utils/userToken'
-import { AuthContext } from '../context/auth.context'
+
 
 const LogIn = () => {
   const [form, setForm] = useState({
@@ -13,7 +13,6 @@ const LogIn = () => {
   })
   const { email, password } = form
   const [error, setError] = useState(null)
-  const navigate = useNavigate()
 
   const handleInputChange = (event) => {
     const { name, value } = event.target
@@ -71,12 +70,10 @@ const LogIn = () => {
 
           {error && (
             <>
-              <hr />
-              <div className="error-block">
-                <p>There was an error submiting the form:</p>
-                <p className="text-red-500">{error.message}</p>
-              </div>
-            </>
+                <div className="error-block text-red-600">
+                  <p>{error.message}</p>
+                </div>
+              </>
           )}
 
           <button
