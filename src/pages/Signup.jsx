@@ -1,9 +1,8 @@
-import { useContext, useState } from 'react'
+import { useState } from 'react'
 import { signup } from '../services/auth.services'
-import { Link, useNavigate, useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import * as PATHS from '../utils/paths'
 import * as USER_HELPERS from '../utils/userToken'
-import { AuthContext } from '../context/auth.context'
 
 const Signup = () => {
   const location = useLocation()
@@ -21,7 +20,6 @@ const Signup = () => {
   const { email, password, name, lastName, phone, isLandlord } = form
 
   const [error, setError] = useState(null)
-  const navigate = useNavigate()
 
   const handleInputChange = (event) => {
     const { name, value } = event.target
@@ -49,7 +47,7 @@ const Signup = () => {
       // unsuccessful signup
       console.error('Signup was unsuccessful: ', res)
       return setError({
-        message: 'Signup was unsuccessful! Please check the console.',
+        message: res.errorMessage,
       })
     }
     // successful signup
@@ -146,9 +144,7 @@ const Signup = () => {
 
             {error && (
               <>
-                <hr />
-                <div className="error-block">
-                  <p>There was an error submiting the form:</p>
+                <div className="error-block text-red-600">
                   <p>{error.message}</p>
                 </div>
               </>
